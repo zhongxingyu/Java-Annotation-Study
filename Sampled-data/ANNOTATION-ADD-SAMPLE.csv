@@ -1,0 +1,385 @@
+Repository Name,Commit Link,File Name,Involved Annotation,Reason for Addition,Remark
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/76c53f6a2152d31a255a36276ada145be5ec474a,BaseFragment.java,SuppressWarnings,Clear Warning,
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/af6b251c15dab2237fdf100b5ebb9c0851c2d490,FragmentActivity.java,"@SuppressLint(""NewApi"")",Clear Warning,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/95eb9ed159e2ec86fbafb04165f663b9cfdc82c7,BlockWriteHandler.java,@SuppressFBWarnings,Clear Warning,
+apache/beam,https://github.com/apache/beam/commit/93ce33512827a023d2f990924939f7ee2d421e07,Counter.java,@SuppressWarnings,Clear Warning,
+apache/cassandra,https://github.com/apache/cassandra/commit/bd14400a95c94b43f2a992d2263d81ae994721f2,PendingRepairManager.java,"@SuppressWarnings(""resource"")",Clear Warning,
+apache/flink,https://github.com/apache/flink/commit/4e3165eec508c320f8c4f1fef7afe78697a64fad,Neighbor.java,"@SuppressWarnings(""serial"")",Clear Warning,
+apache/hadoop,https://github.com/apache/hadoop/commit/a4d4a23785356e6a19d0db3a2dec8ae8cf861273,ChecksumFileSystem.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+apache/incubator-freemarker,https://github.com/apache/incubator-freemarker/commit/4a4080918014790873f5f3f12b22a6460362c42a,UnifiedCall.java,@SuppressFBWarnings),Clear Warning,
+apache/karaf,https://github.com/apache/karaf/commit/b8b0a0e72ec904ad925d6a72b637e45db3dc5462,RestartCommand.java,"@SuppressWarnings(""serial"")",Clear Warning,
+apache/kylin,https://github.com/apache/kylin/commit/1a9f1aff4dd97a8759d680c5e23a255f89164ed4,CubeHFileJob.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+apache/logging-log4j2,https://github.com/apache/logging-log4j2/commit/68df82d23594d56aef6b359fa8fccf456c38bb5c,DefaultConfigurationBuilder.java,"@SuppressWarnings(""unchecked"")",Clear Warning,
+apache/lucene-solr,https://github.com/apache/lucene-solr/commit/9f85633b2db69d919c1f676ba3fadbafd721cc72,StandardTokenizerImpl.java,"@SuppressWarnings(""fallthrough"")",Clear Warning,
+apache/james-project,https://github.com/apache/james-project/commit/761fefbb34d73be036f67a2c387489b9049f4c5d,RemoteDelivery.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+baomidou/mybatis-plus,https://github.com/baomidou/mybatis-plus/commit/138eed3c55f0971d5ac670aaeb8b345571fdce86,MybatisDefaultParameterHandler.java,@SuppressWarnings,Clear Warning,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/cb7b08825383b93b70c5f0498567f56990cae553,ApplicationConfigurer.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+apache/jena,https://github.com/apache/jena/commit/d0e4f58fb934b3893f22ec5c7750fa486504a7ce,OntPropertyImpl.java,"@SuppressWarnings(""hiding"")",Clear Warning,
+Catrobat/Catroid,https://github.com/Catrobat/Catroid/commit/c030e0aa7439503b5a3e353e7745fa7c0e57b4ef,FormulaEditorEditText.java,"@SuppressLint(""AppCompatCustomView"")",Clear Warning,
+AuthMe/AuthMeReloaded,https://github.com/AuthMe/AuthMeReloaded/commit/a4461dd564899061b69966846c7527ffc63bbc99,CommandHandler.java,"@SuppressWarnings(""unused"")",Clear Warning,
+geogebra/geogebra,https://github.com/geogebra/geogebra/commit/caf04281e46a035e137e038ed0dd014d2b66da30,BrentSolver.java,@SuppressFBWarnings,Clear Warning,
+elastic/elasticsearch,https://github.com/elastic/elasticsearch/commit/fcc568fd8dc4dc6642f127dc6dcbc446d30a7297,FileSystemUtils.java,@SuppressForbidden,Clear Warning,
+facebook/buck,https://github.com/facebook/buck/commit/6e82f3c8d88b8db2c287f81a69cd0601454a1363,NoHealthyServersException.java," @SuppressWarnings(""serial"")",Clear Warning,
+facebook/buck,https://github.com/facebook/buck/commit/63a0877bb28e3d2da883484df2da1fd8fe629910,ConstructorArgMarshaller.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+gerrit-review/gerrit,https://github.com/gerrit-review/gerrit/commit/0b27eed770908e1084fdd480693e356914668dfe,GuiceRequestScopePropagator.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+go-lang-plugin-org/go-lang-idea-plugin,https://github.com/go-lang-plugin-org/go-lang-idea-plugin/commit/758809ab459c620a8928dd02318bfc921abb8811,GoPsiImplUtil.java,"@SuppressWarnings(""UnusedParameters"")",Clear Warning,
+gwtbootstrap3/gwtbootstrap3,https://github.com/gwtbootstrap3/gwtbootstrap3/commit/d8e561ceb64da30e3c315cabd181c434be29ed99,DefaultValidatorMixin.java,"@SuppressWarnings(""unchecked"")",Clear Warning,
+gwtproject/gwt,https://github.com/gwtproject/gwt/commit/4c64599ad8202bf07004fb99f6c59b6af3de37bd,BigInteger.java,"@SuppressWarnings(""unusable-by-js"")",Clear Warning,
+h2database/h2database,https://github.com/h2database/h2database/commit/42b11b0d8fba1b1b7ea5e8bb6291258ece361008,ImmutableArray2.java," @SuppressWarnings(""unchecked"")",Clear Warning,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/f799cc70eba279168d414b026d277477cddc2dfe,MD5Util.java, @SuppressWarnings,Clear Warning,
+jMonkeyEngine/sdk,https://github.com/jMonkeyEngine/sdk/commit/69255e4c6fc44a93b75606b5609413983c074559,WidgetChildFactory.java,"@SuppressWarnings({""unchecked"", ""rawtypes""})",Clear Warning,
+ProtocolSupport/ProtocolSupport,https://github.com/ProtocolSupport/ProtocolSupport/commit/457a7a7347876a230b9f136c647cc1c76de86c82,HoverAction.java,"@SuppressWarnings(""deprecation""",Clear Warning,
+yegor256/takes,https://github.com/yegor256/takes/commit/65b5ce7b0e0e1c19c975fb89680c5ef8a29461bb,RsPrettyJSON.java,@SuppressWarnings,Clear Warning,
+graalvm/fastr,https://github.com/graalvm/fastr/commit/64ac4e4259d9ada6cbb3c04381f89e7656340bed,RLanguageMR.java,"@SuppressWarnings(""try"")",Clear Warning,
+graalvm/fastr,https://github.com/graalvm/fastr/commit/aa92a44d2ce08370686e4b5eaf287ae1d2733a1b,RCommand.java,"@SuppressWarnings(""unused"")",Clear Warning,
+neo4j/neo4j,https://github.com/neo4j/neo4j/commit/8b0ede93f3080ec3117a4c95694471460678e996,CloningRecordIterator.java,"@SuppressWarnings( ""deprecated"" )",Clear Warning,
+facebook/fresco,https://github.com/facebook/fresco/commit/5a2d5cf41d51c91916f013c93f3a655a6f76f79f,AnimationBackendDelegate.java," @SuppressLint(""Range"")",Clear Warning,
+aosp-mirror/platform_frameworks_base,https://github.com/aosp-mirror/platform_frameworks_base/commit/bfc4fcde9f756337fc8d0867ff04549b08688fff,LocationManager.java,"@SuppressLint(""Doclava125"")",Clear Warning,
+jenetics/jenetics,https://github.com/jenetics/jenetics/commit/5b03ee5f33239c71e694b69751cc5e3265c960dd,NanoTimeRandom.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+matsim-org/matsim,https://github.com/matsim-org/matsim/commit/8a57e9efa4eea64541fe3032260a5c3f211efc16,AuxDischargingHandler.java,"@SuppressWarnings(""rawtypes"")",Clear Warning,
+nutzam/nutz,https://github.com/nutzam/nutz/commit/f8323a939ff5a83637c9b62ea8a3cd3765b2e6b0,SimplePluginManager.java,"@SuppressWarnings(""unchecked"")",Clear Warning,
+naver/pinpoint,https://github.com/naver/pinpoint/commit/dec971b1678e7fefd5279e05427ba2be552d815c,DefaultClientExchangeHandlerImplStartMethodInterceptor.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+openstreetmap/josm,https://github.com/openstreetmap/josm/commit/f06ab5f4278947612471f742b8db54361edaebca,DeleteCommand.java,"@SuppressWarnings(""unused"")",Clear Warning,
+vespa-engine/vespa,https://github.com/vespa-engine/vespa/commit/07b0e7421fe4d295574934a94f1440b165e45412,WebSocketRequestDispatch.java,"@SuppressWarnings(""try"")",Clear Warning,
+wala/WALA,https://github.com/wala/WALA/commit/296657a39433e3870508d9d2a474cb1e26baff08,BackwardsSupergraph.java,"@SuppressWarnings(""unused"")",Clear Warning,
+watson-developer-cloud/java-sdk,https://github.com/watson-developer-cloud/java-sdk/commit/d443ec6c55c1ff18296f8fc737c3529c4f71e301,ConversionUtils.java,"@SuppressWarnings(""rawtypes"")",Clear Warning,
+watson-developer-cloud/java-sdk,https://github.com/watson-developer-cloud/java-sdk/commit/d5ccc688e7b75f6fa8420aaf165f79776ac0995c,EagerNumberAdapterFactory.java,"@SuppressWarnings(""unchecked"")",Clear Warning,
+weld/core,https://github.com/weld/core/commit/dc5989d5e697393d793d34f91ef8b5fbf7750e09,ConversationLogger.java,@SuppressWarnings,Clear Warning,
+robolectric/robolectric,https://github.com/robolectric/robolectric/commit/0ddd7ed782bd01d4fd85f44017d84daa6c1d88a2,IShadow.java,@SuppressWarnings,Clear Warning,
+RocketChat/Rocket.Chat.Android,https://github.com/RocketChat/Rocket.Chat.Android/commit/3f49c4edf5b8f84fe3a5fec58e06db16dd11e72b,GcmPushRegistration.java,"@SuppressWarnings({""PMD.ShortVariable""})",Clear Warning,
+Raizlabs/DBFlow,https://github.com/Raizlabs/DBFlow/commit/8d4cd8ea8c10eb0a2d258d3bb7153896870c16f1,InternalAdapter.java,"@SuppressWarnings(""NullableProblems"")",Clear Warning,
+OpenGamma/Strata,https://github.com/OpenGamma/Strata/commit/6afce63e41628c07a06426c62a8c978222ab3c5d,DefaultMarketDataMappings.java,"@SuppressWarnings(""rawtypes"")",Clear Warning,
+UweTrottmann/SeriesGuide,https://github.com/UweTrottmann/SeriesGuide/commit/b055f184b7a767c42b558ec81e019799a1126f2f,ShowsActivity.java,"@SuppressWarnings(""unused"")",Clear Warning,
+UweTrottmann/SeriesGuide,https://github.com/UweTrottmann/SeriesGuide/commit/d6c5d2bcec1c065c119524883298b8cdeb831c1e,ListsFragment.java,"@SuppressWarnings(""UnusedParameters"")",Clear Warning,
+validator/validator,https://github.com/validator/validator/commit/f9b91e7089f9c116bc4052399c34bf0b215113f8,MultipartFormDataFilter.java,"@SuppressWarnings(""rawtypes"")",Clear Warning,
+mtotschnig/MyExpenses,https://github.com/mtotschnig/MyExpenses/commit/27785fcf936f790591e008b2844108ed6d3dab24,MethodCriteria.java,"@SuppressWarnings(""unused"")",Clear Warning,
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/commit/cbd98d52471a49b72013f04c09f28a6cb58e982b,ChannelSendOperator.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+spring-projects/spring-integration,https://github.com/spring-projects/spring-integration/commit/f1fc0edbf3290c62af611f8e87f6ef363791d585,TcpConnectionEventInboundChannelAdapterParser.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+wordpress-mobile/WordPress-Android,https://github.com/wordpress-mobile/WordPress-Android/commit/0d40988a7cdcf671d93a29aa910910516a4cfcc1,ReaderPostListFragment.java,"@SuppressLint(""NewApi"")",Clear Warning,
+wikimedia/apps-android-wikipedia,https://github.com/wikimedia/apps-android-wikipedia/commit/4cccd5a5688aa716dd4e7287234be23b8688d42e,NearbyFragment.java," @SuppressLint(""CommitPrefEdits"")",Clear Warning,
+real-logic/agrona,https://github.com/real-logic/agrona/commit/21c6e48545cc8479323f8b566cb6a28566b56963,Int2IntCounterMap.java,"@SuppressWarnings(""FinalParameters"")",Clear Warning,
+graalvm/graal,https://github.com/graalvm/graal/commit/22cc754c1aec50402c660b0a469aa08bff017fae,ConditionalEliminationBenchmark.java,"@SuppressWarnings(""cast"")",Clear Warning,
+strapdata/elassandra,https://github.com/strapdata/elassandra/commit/b04160d9f5a59b11831c3eea007655589eb3cad9,TypeEncounter.java,"@SuppressWarnings(""fallthrough"")",Clear Warning,
+sleuthkit/autopsy,https://github.com/sleuthkit/autopsy/commit/50977ca21941b2fcb0171ce486855a06413e728b,ArtifactStringContent.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+sleuthkit/autopsy,https://github.com/sleuthkit/autopsy/commit/19cc81f35059003e642d6da129b87345bf7fa9ea,EventsRepository.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+sleuthkit/autopsy,https://github.com/sleuthkit/autopsy/commit/7f8d2dea5d374f5e6494aef1270310ebda1dd02d,ReportVisualPanel2.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+rstudio/rstudio,https://github.com/rstudio/rstudio/commit/5cb1d3fb57c0aee252367c81e9800962d1c0fd4c,ProjectTemplateIconImageResource.java,"@SuppressWarnings(""deprecation"")",Clear Warning,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/bc0487f791ff044dd26473cd440ea190e1d27d93,Deprecation.java,"@SuppressWarnings(""serial"")",Clear Warning,
+streamsets/datacollector,https://github.com/streamsets/datacollector/commit/8a46897536b3754790aadb7f85f69224c786dbcf,SolrTarget06.java,"@SuppressWarnings(""unchecked"")",Clear Warning,
+RocketChat/Rocket.Chat.Android,https://github.com/RocketChat/Rocket.Chat.Android/commit/5f5f057a634dd61e371fdd4d7675c094b0e96827,RealmHelper.java,"@SuppressLint(""NewApi"")",Clear Warning,
+adjust/android_sdk,https://github.com/adjust/android_sdk/commit/0e59dbf3556b4f0250305744a84b62f763fab20d,ActivityHandler.java,@Override,Clear Warning,
+antlr/antlr4,https://github.com/antlr/antlr4/commit/3506dcef1d7bfb5389ae8de2a29fd94bfad9a489,JavaScriptTarget.java,@Override,Clear Warning,
+apache/activemq,https://github.com/apache/activemq/commit/61b2f6b40e06a5fd72077a4abcca7faadc07e3e4,ActiveMQInitialContextFactory.java,@Override,Clear Warning,
+apache/activemq-artemis,https://github.com/apache/activemq-artemis/commit/389762cb3a33db7c3f7c442ad5b968363c2da9dd,PageSubscriptionImpl.java,@Override,Clear Warning,
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/90ac236504c1a4cac7e91f1ffc523334f2a8f399,FragmentActivity.java,@Override,Clear Warning,
+apache/commons-math,https://github.com/apache/commons-math/commit/e76bf903a268c242011618730cba7a7bae8d380c,AdamsMoultonFieldIntegrator.java, @Override,Clear Warning,
+apache/groovy,https://github.com/apache/groovy/commit/39fad7273f497d1bf9469c5cd5b58c646802e45d,IntRange.java,@Override,Clear Warning,
+apache/hadoop,https://github.com/apache/hadoop/commit/6746f8cadb649c110616b629d9d451a5787ffd91,ResourceProfilesManager.java,@Override,Clear Warning,
+apache/httpcomponents-core,https://github.com/apache/httpcomponents-core/commit/0042a6a1eb92a3aa28bd3b514356046c34b56996,AbstractCharAsyncEntityConsumer.java,@Override,Clear Warning,
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/7ffda44875478ca3f73e1bdd1d80020beaebb516,GCMemoryBarrier.java,@Override,Clear Warning,
+apache/jmeter,https://github.com/apache/jmeter/commit/9c4758fa93e3ed3e7fa93ec20620f053f651d84d,ExternalSampleSorter.java,@Override,Clear Warning,
+apache/logging-log4j2,https://github.com/apache/logging-log4j2/commit/cf725b4a0ca86bf4da257bbeba4f39b820d93a2e,AbstractConfiguration.java,@Override,Clear Warning,
+cgeo/cgeo,https://github.com/cgeo/cgeo/commit/7c6b98f5623a486f94b724972f476f7ac0617fe9,CalculateButton.java,@Override,Clear Warning,
+blazegraph/database,https://github.com/blazegraph/database/commit/bcca318aa0ece1d13728a888a2571a3a1d32f5d6,UpdateRoot.java,@Override,Clear Warning,
+apache/pdfbox,https://github.com/apache/pdfbox/commit/8cc60aa63c0a3b2b1a9411a8c1dd6af6156684bb,MacRomanEncoding.java,@Override,Clear Warning,
+AppliedEnergistics/Applied-Energistics-2,https://github.com/AppliedEnergistics/Applied-Energistics-2/commit/926af89029c3a1de6391162b23e449ad44300683,OreHelper.java,@Override,Clear Warning,
+checkstyle/checkstyle,https://github.com/checkstyle/checkstyle/commit/fcd823e0d509083e53b46618d9c542da30f579f7,NeverSuppress.java,@Override,Clear Warning,
+consulo/consulo,https://github.com/consulo/consulo/commit/1bf4667b3950dc5d9fe3a6c6e78055ba0ff7e377,ProjectConfigurablesGroup.java,@Override,Clear Warning,
+BuildCraft/BuildCraft,https://github.com/BuildCraft/BuildCraft/commit/91ed057f09fcc69b0ca3c72d1eb448d2371f7e95,Template.java,@Override,Clear Warning,
+DSpace/DSpace,https://github.com/DSpace/DSpace/commit/f1a36d74ced0db7b32382a421228b0e5aaccc228,BatchImportConfirm.java,@Override,Clear Warning,
+ebean-orm/ebean,https://github.com/ebean-orm/ebean/commit/47b0a917a24ce0b27e83193670edc70823ec5e73,BeanPropertyAssocMany.java,@Override,Clear Warning,
+JetBrains/intellij-plugins,https://github.com/JetBrains/intellij-plugins/commit/1ed4242f14976cc6491e37ead21188afd30baaee,FlexmojosSdkType.java,@Override,Clear Warning,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/d9951627536e38ba1c7b00c0bcaec5ad0aaab9c6,QueryResult.java,@Override,Clear Warning,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/7a3cbe779ee31a894186c97fc8cdc2734a0bf6ba,TransactionalMap.java,@Override,Clear Warning,
+eclipse/jetty.project,https://github.com/eclipse/jetty.project/commit/4cf308a7db1d5399ec2b85e27211a7b54efd1561,AsyncMiddleManServlet.java,@Override,Clear Warning,
+apache/tomcat,https://github.com/apache/tomcat/commit/ec1974a45da9e234ce634d051162d5223d759d59,AuthConfigFactory.java,@Override,Clear Warning,
+deeplearning4j/nd4j,https://github.com/deeplearning4j/nd4j/commit/cf21b17bd79ca7442fa5340f17a2fdb30dba6d74,IMin.java, @Override,Clear Warning,
+geogebra/geogebra,https://github.com/geogebra/geogebra/commit/9df2964ee1f98ec6f3f554bc118d241d1a7c2b4a,JlmEditorLib.java,@Override,Clear Warning,
+Jasig/uPortal,https://github.com/Jasig/uPortal/commit/5b3fc6246f03f1261b5f77a43267ac4c7fa1f084,AttributeSwapperHelperImpl.java,@Override,Clear Warning,
+JetBrains/android,https://github.com/JetBrains/android/commit/6dacf4464703e709ea14246065cf42a78076e4bd,ComponentsSplitter.java,@Override,Clear Warning,
+JetBrains/intellij-community,https://github.com/JetBrains/intellij-community/commit/e8493919814225bdb2d0a33843dd83a68a1446b7,CvsEntriesManager.java, @Override,Clear Warning,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/86f00b9d38ca14fb1693863758bbede04261e1f1,ScreensDDMStructureVersionServiceImpl.java,@Override,Clear Warning,
+xwiki/xwiki-platform,https://github.com/xwiki/xwiki-platform/commit/5b7d08ea94c31da8aa27b9d7cb9715a7426e3fea,DefaultWatchListNotifier.java,@Override,Clear Warning,
+zaproxy/zaproxy,https://github.com/zaproxy/zaproxy/commit/34ee3a734e7d795a52521b38eb593c1499413c3d,ExtensionStdMenus.java,@override,Clear Warning,
+matsim-org/matsim,https://github.com/matsim-org/matsim/commit/613c67da165b501131891f1f99f8f45d7f307a67,BasicOperator.java,@Override,Clear Warning,
+jolie/jolie,https://github.com/jolie/jolie/commit/22a91a2d8d134f98913430560547d3ee84cbd87a,JavaScriptServiceLoaderFactory.java,@Override,Clear Warning,
+vespa-engine/vespa,https://github.com/vespa-engine/vespa/commit/243576011653f6b054c998af4e2ce6600592ca68,Juniperrc.java,@Override,Clear Warning,
+vespa-engine/vespa,https://github.com/vespa-engine/vespa/commit/fe8794eab4f891f5ea09865fd753df7a3f77b7a9,OrderingSpecification.java, @Override,Clear Warning,
+stanfordnlp/CoreNLP,https://github.com/stanfordnlp/CoreNLP/commit/d7563b3b5ead5a7950a624fcddb585183d03bbc0,CollectionValuedMap.java,@Override,Clear Warning,
+stanfordnlp/CoreNLP,https://github.com/stanfordnlp/CoreNLP/commit/8814ad69715a308e2548a80021a5a1dfdc348133,CoreMapExpressionNodePattern.java,@Override,Clear Warning,
+Team-RTG/Realistic-Terrain-Generation,https://github.com/Team-RTG/Realistic-Terrain-Generation/commit/6bd20639bfbf1246d37c46a4b93ba80afa8310af,WorldTypeRTG.java,@Override,Clear Warning,
+treasure-data/digdag,https://github.com/treasure-data/digdag/commit/ee675bee677263ff7da0d0128d45ba85db930e16,PyTaskRunnerFactory.java,@Override,Clear Warning,
+openmicroscopy/bioformats,https://github.com/openmicroscopy/bioformats/commit/d16899c54d46453cc800382f31bae32d4d57b37c,Temperature.java,@Override,Clear Warning,
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/d1ce4bc801d62c831b0123cfa665d34dab6fe95f,LispMulticastLcafAddress.java,@Override,Clear Warning,
+orientechnologies/orientdb,https://github.com/orientechnologies/orientdb/commit/9fff528bb28301f97956cc27a8bedb65120b90e7,ODefaultImporterListener.java,@Override,Clear Warning,
+spotbugs/spotbugs,https://github.com/spotbugs/spotbugs/commit/b76f148cc29339d018e9be2758509e860bb2cdb1,PathsProvider.java,@Override,Clear Warning,
+spring-projects/spring-ide,https://github.com/spring-projects/spring-ide/commit/88a5d32d5886fb74b987c7451822ab8930b74388,GSZipFileCodeSet.java,@Override,Clear Warning,
+pgjdbc/pgjdbc,https://github.com/pgjdbc/pgjdbc/commit/3d37db78ae4a82cab8809bac86e3b55537e91d95,MultiHostChooser.java,@Override,Clear Warning,
+ReactiveX/RxJava,https://github.com/ReactiveX/RxJava/commit/70922a6a4f7093cb7c924e91a1edf966bd0071c0,ParallelJoin.java,@Override,Clear Warning,
+weld/core,https://github.com/weld/core/commit/934539c74e5de0fe7a3cac9c21e96c739e9ff6ec,Sets.java,@SafeVarargs,Clear Warning,
+codefollower/H2-Research,https://github.com/codefollower/H2-Research/commit/bc21e0a62dacb9b1ab6e224374f38f3c213e6216,ImmutableArray2.java,@SafeVarargs,Clear Warning,
+CyanogenMod/android_frameworks_base,https://github.com/CyanogenMod/android_frameworks_base/commit/d98f4ba86c02714d94ec3b6f35345cb0b04f7778,PropertyValuesHolder.java,@SafeVarargs,Clear Warning,
+h2database/h2database,https://github.com/h2database/h2database/commit/45ff40c5fd5c0f5a6df72949c3cad2cf164346d8,ImmutableArray2.java,@SafeVarargs,Clear Warning,
+realm/realm-java,https://github.com/realm/realm-java/commit/00acc92cb83d67c821319c4eb23bc7d34a18bd45,RealmObjectSchema.java,@Deprecated,Clarify specific facts about usage,
+resteasy/Resteasy,https://github.com/resteasy/Resteasy/commit/83766675e5bc5db41131e1ff39bc4ab48cb2c059,SuspendInjector.java,@Deprecated,Clarify specific facts about usage,
+QuickBlox/q-municate-android,https://github.com/QuickBlox/q-municate-android/commit/92c442d66cc7017c0c7b94ae9f1e33a9494699ac,VideoCallFragment.java,@Deprecated,Clarify specific facts about usage,
+adempiere/adempiere,https://github.com/adempiere/adempiere/commit/c7f798e3ef2daf38e25eb28936d14f31fe524861,WPaySelect.java,@Deprecated,Clarify specific facts about usage,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/eaca4ff6a773a91dcc920055ae98ac93e7631fdc,FileSystemMasterClient.java, @Deprecated,Clarify specific facts about usage,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/dee956c2e59781b55a90d6638d859488d1915d7c,TachyonFile.java,@Deprecated,Clarify specific facts about usage,
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/d805095048f6be52cddbd572ee343c4639ba8187,ScriptGroup.java,@Deprecated,Clarify specific facts about usage,
+apache/beam,https://github.com/apache/beam/commit/b5b8d95ccee226c57ed4a42b073583bc6d40d77f,MapCoderBase.java,@Deprecated,Clarify specific facts about usage,
+apache/camel,https://github.com/apache/camel/commit/4254d4315b032f1f1897822ee33c1d05a233d4d1,DisruptorVmComponentConfiguration.java, @Deprecated,Clarify specific facts about usage,
+apache/camel,https://github.com/apache/camel/commit/a005546a154669c86d9677d8b3d4689458ced6f0,DefaultTraceInterceptorFactory.java,@Deprecated,Clarify specific facts about usage,
+apache/cassandra,https://github.com/apache/cassandra/commit/9c49fbcc5ccb03e64bb95c43fc7134ddb281cec4,AbstractCompactionStrategy.java,@Deprecated,Clarify specific facts about usage,
+apache/hadoop,https://github.com/apache/hadoop/commit/f2aba1da30aae482a2d65696493b609948f9b904,IOUtils.java,@Deprecated,Clarify specific facts about usage,
+apache/hbase,https://github.com/apache/hbase/commit/a6d8cedb06eecbdb1d15e8067d470f5b871187c1,RegionObserver.java,@Deprecated,Clarify specific facts about usage,
+apache/isis,https://github.com/apache/isis/commit/4873f8f33309fbd4fb32685173c6eda74422248f,Auditable.java,@Deprecated,Clarify specific facts about usage,
+apache/isis,https://github.com/apache/isis/commit/69b61ad97a5eea344d6c2360a2ea115f26be2c3d,RenderType.java,@Deprecated,Clarify specific facts about usage,
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/5ff40f30e4e2a06cbb8afd65f83df26df8c9f056,OakRepositoryFixture.java, @Deprecated,Clarify specific facts about usage,
+apache/tinkerpop,https://github.com/apache/tinkerpop/commit/08edde632fc323dbb858779daa9b2e1c7b3efc3d,GFunction.java,@Deprecated,Clarify specific facts about usage,
+apache/jena,https://github.com/apache/jena/commit/66ceff0cb1b2aaddf4477993dda60a1e32026ebf,UniqueExtendedIterator.java,@Deprecated,Clarify specific facts about usage,
+apache/logging-log4j2,https://github.com/apache/logging-log4j2/commit/da48edd67b2758fe59ad8ab313f15982da7609ba,Logger.java, @Deprecated,Clarify specific facts about usage,
+freenet/fred,https://github.com/freenet/fred/commit/8e9fc2c3c30e7f0191e78e9c67d9a7259ea7c64b,PluginReplySenderDirect.java,@Deprecated,Clarify specific facts about usage,
+freeplane/freeplane,https://github.com/freeplane/freeplane/commit/7c4dab9405bc634e818eab9392261c9acba91eb6,ScriptingRibbonsContributor.java,@Deprecated,Clarify specific facts about usage,
+dianping/pigeon,https://github.com/dianping/pigeon/commit/cc7accda662cfd8f585aa9251b1698192720d27f,HeartBeatCheckTask.java,@Deprecated,Clarify specific facts about usage,
+elki-project/elki,https://github.com/elki-project/elki/commit/56fb1a86cdc0a9d638ac21a77b2b1b15164f32a8,UnmodifiableArrayDBIDs.java,@Deprecated,Clarify specific facts about usage,
+deeplearning4j/deeplearning4j,https://github.com/deeplearning4j/deeplearning4j/commit/b8b7bfbb7c396236abf1ac6dfe54472188e9aa75,Model.java,@Deprecated,Clarify specific facts about usage,
+i2p/i2p.i2p,https://github.com/i2p/i2p.i2p/commit/c6136b5cdb4631fea1a4ec330402912230b063be,IMessageDigestStandalone.java,@Deprecated,Clarify specific facts about usage,
+blazegraph/database,https://github.com/blazegraph/database/commit/7e60a1b8d8e40ff8a5d10cda92889463b442a196,BDS.java,@Deprecated,Clarify specific facts about usage,
+hibernate/hibernate-orm,https://github.com/hibernate/hibernate-orm/commit/82cf0c1caaa58d074e61e72f25ebf37a23700f4d,PropertyData.java,@Deprecated,Clarify specific facts about usage,
+geotools/geotools,https://github.com/geotools/geotools/commit/0737eb21a8e317ea240da953288f59d0e685ddb6,WFS_1_0_0_DataStore.java,@Deprecated,Clarify specific facts about usage,
+gocd/gocd,https://github.com/gocd/gocd/commit/05efe5c1595dd3c31bbc6406f0ae71efbb64cf2d,AuthenticationViewModelBuilder.java,@Deprecated,Clarify specific facts about usage,
+deeplearning4j/nd4j,https://github.com/deeplearning4j/nd4j/commit/5303b4cf94e15b0bcd0d9535737128ac019a4e9c,DataSet.java,@Deprecated,Clarify specific facts about usage,
+languagetool-org/languagetool,https://github.com/languagetool-org/languagetool/commit/1f73e1a83e949464c2030067d266db82aef5f86f,DictionaryExporter.java,@Deprecated,Clarify specific facts about usage,
+lenskit/lenskit,https://github.com/lenskit/lenskit/commit/3779d1c8bc132cae4abece93bcc40acdc51e9788,ObjectStreams.java,@Deprecated,Clarify specific facts about usage,
+nuxeo/nuxeo,https://github.com/nuxeo/nuxeo/commit/565851263b960168f1421b79fb43599e60ee27f7,LogEntryWriter.java,@Deprecated,Clarify specific facts about usage,
+omnifaces/omnifaces,https://github.com/omnifaces/omnifaces/commit/fcf7a8d26928cf2e3457bfff2366ff6328e44c86,GenericEnumConverter.java,@Deprecated,Clarify specific facts about usage,
+naver/pinpoint,https://github.com/naver/pinpoint/commit/0bbdaa411c514476918667acf310c4501c8959d7,AgentEventTypeCategory.java,@Deprecated,Clarify specific facts about usage,
+naver/pinpoint,https://github.com/naver/pinpoint/commit/20127a5b2dd2ea0504f994614d3da6d2c94ce75f,ByteCodeInstrumentor.java,@Deprecated,Clarify specific facts about usage,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/4279767181ef982606cc72917b8440da2ca21052,ProductImpl.java,@Deprecated,Clarify specific facts about usage,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/da3a52bbb57ad2fb1dae58aad7233b5fdaf4f640,AbstractWorker.java,@Deprecated,Clarify specific facts about usage,
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/2767e1d63d56691829ed348a2a8894b3554c3f26,RestApiDataProvider.java,@Deprecated,Clarify specific facts about usage,
+google/guava,https://github.com/google/guava/commit/379757e3b1c22fef4b19181e404c6abb7ad58d50,Hashing.java,@Deprecated,Clarify specific facts about usage,
+flowable/flowable-engine,https://github.com/flowable/flowable-engine/commit/22746aa484e4fa2e0559d7aec938bc244c1fbeae,JobQuery.java, @Deprecated,Clarify specific facts about usage,
+graalvm/graal,https://github.com/graalvm/graal/commit/365ab8e91c9afb88c0c8d478617bc150ce1130c0,NodeFieldAccessor.java, @Deprecated,Clarify specific facts about usage,
+jclouds/jclouds,https://github.com/jclouds/jclouds/commit/dcba6fe51a2f12bbb72c04981e6fa9f21e9af176,ZoneState.java,@Deprecated,Clarify specific facts about usage,
+jdbi/jdbi,https://github.com/jdbi/jdbi/commit/63e7f7609abf43a80f4d5bcc791d7fb7262c7ba9,BigDecimalMapper.java,@Deprecated,Clarify specific facts about usage,
+JetBrains/intellij-community,https://github.com/JetBrains/intellij-community/commit/108432168f900a70be1dbebbfa56300c6b557f34,RemoteCredentialsHolder.java,@Deprecated,Clarify specific facts about usage,
+JetBrains/MPS,https://github.com/JetBrains/MPS/commit/1c69f46808b5305a642b24128457e8b7cab991cc,SModelUtil_new.java, @Deprecated,Clarify specific facts about usage,
+JetBrains/MPS,https://github.com/JetBrains/MPS/commit/cdbc353ecb86304e01a0ed9c7c5c1bb4f3e4293c,SmartReferenceSubstituteMenuItem.java,@Deprecated,Clarify specific facts about usage,
+hibernate/hibernate-search,https://github.com/hibernate/hibernate-search/commit/05c32ddf0da9cabd630e44dbc3c01c352f119cff,FullTextQueryImpl.java,@Deprecated,Clarify specific facts about usage,
+netty/netty,https://github.com/netty/netty/commit/cf07f984b16d95719a9ece8c39ed6c11d8c57829,ByteBufProcessor.java,@Deprecated,Clarify specific facts about usage,
+nuxeo/nuxeo,https://github.com/nuxeo/nuxeo/commit/e33b830c45b237221ba911cd8b9733e283c5f0a5,RedisDBSClusterInvalidator.java,@Deprecated,Clarify specific facts about usage,
+liferay/liferay-plugins,https://github.com/liferay/liferay-plugins/commit/e6b6fc76efe4f7293183deca7b5b1198f2c4c865,KBArticleServiceImpl.java,@Deprecated,Clarify specific facts about usage,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/d79674397d2980a886b91c1319992df4c172931c,Plugin.java,@Deprecated,Clarify specific facts about usage,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/59b6a2f80daeb416c90e1d8d20fa30d5eb13a72f,FileRankCreateDateComparator.java,@Deprecated,Clarify specific facts about usage,
+wildfly/wildfly,https://github.com/wildfly/wildfly/commit/45b2289fd88f220651b7ebefd4759f30dae2f680,PropertyResourceDefinition.java, @Deprecated ,Clarify specific facts about usage,
+yacy/yacy_search_server,https://github.com/yacy/yacy_search_server/commit/28456dfc09c277cf4c5c059f736ecdfc7e3d76e6,AbstractTransformer.java, @Deprecated ,Clarify specific facts about usage,
+matsim-org/matsim,https://github.com/matsim-org/matsim/commit/484f47b7e0fd5f10111dd50746acbec62f346c0e,SubtourModeChoice.java,@Deprecated,Clarify specific facts about usage,
+matsim-org/matsim,https://github.com/matsim-org/matsim/commit/2d44885bd8547c350264281e46eb18ac288ac5c3,NetworkLegRouter.java,@Deprecated ,Clarify specific facts about usage,
+mockito/mockito,https://github.com/mockito/mockito/commit/b0647817082f0828e2630f0361226be56ca7297a,MockitoDebuggerImpl.java,@Deprecated,Clarify specific facts about usage,
+JumpMind/symmetric-ds,https://github.com/JumpMind/symmetric-ds/commit/0e1d5476d1fd516333ffd665335f417daf0ece16,ISymmetricDialect.java, @Deprecated,Clarify specific facts about usage,
+wiglenet/wigle-wifi-wardriving,https://github.com/wiglenet/wigle-wifi-wardriving/commit/f108d163e2788cddc85201a792378904f1043a21,FileUploaderTask.java,@Deprecated,Clarify specific facts about usage,
+opendaylight/controller,https://github.com/opendaylight/controller/commit/828f1ee4c7726282fb41a43840b3d69078723992,GlobalEventExecutorModuleFactory.java,@Deprecated,Clarify specific facts about usage,
+opendaylight/controller,https://github.com/opendaylight/controller/commit/11e16facd8ba32e307d634b6da13160d57597cce,DataChangeListener.java,@Deprecated,Clarify specific facts about usage,
+opendaylight/controller,https://github.com/opendaylight/controller/commit/71e3830c1fb6c5f8c54e1677dd811a790ece8f17,RpcImplementationUnavailableException.java,@Deprecated,Clarify specific facts about usage,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/0286128b2897131fa3fa2a4e03a624c2b2c2f6ec,ConfigurationPropertiesBindingPostProcessor.java,@Deprecated,Clarify specific facts about usage,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/cfee9bab817bd6bce5e14aea13f42f3128bc3df5,ShellProperties.java,@Deprecated,Clarify specific facts about usage,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/86d87f6b8ad6816b1d98bad7ab68bcdad1bf5cf0,VelocityTemplateAvailabilityProvider.java,@Deprecated,Clarify specific facts about usage,
+SonarSource/sonarqube,https://github.com/SonarSource/sonarqube/commit/c9387788b44e4f151d2f2c72d33cbb4409e1a03e,NewCoverage.java,@Deprecated,Clarify specific facts about usage,
+SonarSource/sonarqube,https://github.com/SonarSource/sonarqube/commit/56eec4bfb1ad5b99e6bcf6b93806dbaa87cd6a13,SourceCode.java,@Deprecated,Clarify specific facts about usage,
+openmicroscopy/openmicroscopy,https://github.com/openmicroscopy/openmicroscopy/commit/b2baad82f9949cea04849f11120f3bb9865020ed,OMECredentials.java,@Deprecated,Clarify specific facts about usage,
+openmicroscopy/openmicroscopy,https://github.com/openmicroscopy/openmicroscopy/commit/79cbaf03ec2769ec6eb4a7f7b36f75671b15613c,ChgrpFacadeI.java,@Deprecated,Clarify specific facts about usage,
+strapdata/elassandra,https://github.com/strapdata/elassandra/commit/ff9b28d806629c929cd61517437a627de77799ec,StreamOutput.java,@Deprecated,Clarify specific facts about usage,
+strapdata/elassandra,https://github.com/strapdata/elassandra/commit/6fa258b8fa2efa21fe011e30b3a1653643f61a88,SearchService.java,@Deprecated,Clarify specific facts about usage,
+sakaiproject/sakai,https://github.com/sakaiproject/sakai/commit/ffec1e1f894a9c97d44cc63999fe28a5275217ea,SakaiProxy.java,@Deprecated,Clarify specific facts about usage,
+opentripplanner/OpenTripPlanner,https://github.com/opentripplanner/OpenTripPlanner/commit/cd935a13f1a5c13630aeeff9383aaf3f06fdd65e,ChainedFareService.java,@Deprecated,Clarify specific facts about usage,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/b10e2f3a051ec1de1fb17ae08e42c1f0c0c9687c,EnableConfigurationPropertiesImportSelector.java,@Deprecated,Clarify specific facts about usage,
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/commit/0a36559a43780a232cb0191a8e8c9060799f8ce0,SpringBeanPreparerFactory.java,@Deprecated,Clarify specific facts about usage,
+spring-cloud/spring-cloud-commons,https://github.com/spring-cloud/spring-cloud-commons/commit/ba3dd0967a1d0e17fdde75d257bfae16c845c807,DiscoveryClient.java,@Deprecated,Clarify specific facts about usage,
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/f15065e46bc47c7b3e9e1972050597e1549b5b93,GossipDeviceStoreMessageSubjects.java,@Deprecated,Clarify specific facts about usage,
+pentaho/pentaho-kettle,https://github.com/pentaho/pentaho-kettle/commit/0c3777206c87234fabd05241271430af87d212b8,Log4jConsoleAppender.java,@Deprecated,Clarify specific facts about usage,
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/14869be8f4b0f2d485657d6900255cef8090378a,ResourceAllocationsCommand.java,@Deprecated,Clarify specific facts about usage,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/56c005da70b932a699b5cef0d7cc4135f98f2e83,Role.java,@Beta,Clarify specific facts about usage,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/76844805d09a53a9b56def57161c07e0215614ed,AdapterSpecification.java,@Beta,Clarify specific facts about usage,
+Azure/azure-sdk-for-java,https://github.com/Azure/azure-sdk-for-java/commit/76888bfb80407c48afe638b1c56abb8d20cc2a2b,ServiceFabricManager.java,@Beta(Beta.SinceVersion.V1_2_0),Clarify specific facts about usage,
+Azure/azure-sdk-for-java,https://github.com/Azure/azure-sdk-for-java/commit/1258b01d51e1d5abde06015c45746f95fba37f6a,Users.java,@Beta,Clarify specific facts about usage,
+enonic/xp,https://github.com/enonic/xp/commit/f6b2c95b3ad46bc77fe8f082cdc344409ce9def6,MacroService.java,@Beta,Clarify specific facts about usage,
+jclouds/jclouds,https://github.com/jclouds/jclouds/commit/bc81919c58cd9f0d5f1025605f78539b5edee80d,ContainerAccess.java,@Beta,Clarify specific facts about usage,
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/4c571ae2c5cf211dffe7b0ee5c449b26c4568704,TunnelStatistics.java,@Beta,Clarify specific facts about usage,
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/67f94869e64b79e88e7337eb70d656f280009163,ResourceException.java,@Beta,Clarify specific facts about usage,
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/e825af0d891a454ad4d35affc05d85b06dcd6e9b,DeviceResourceService.java,@Beta,Clarify specific facts about usage,
+apache/flink,https://github.com/apache/flink/commit/19ef82cf358da54bf204e678bf203f25147b11f9,FileSystem.java,@Internal,Clarify specific facts about usage,
+apache/flink,https://github.com/apache/flink/commit/19ef82cf358da54bf204e678bf203f25147b11f9,FileSystem.java,@Internal,Clarify specific facts about usage,
+apache/beam,https://github.com/apache/beam/commit/fe51cc0d1a8aa14adbee81b220f9ca8a442f26fe,PTransformOverrideFactory.java,@Internal,Clarify specific facts about usage,
+GoogleCloudPlatform/google-cloud-java,https://github.com/GoogleCloudPlatform/google-cloud-java/commit/eec31d2d23f0d129fd732953c1a7db916bbd4d82,AsyncPageImpl.java,@InternalApi,Clarify specific facts about usage,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/2bec153c67458455a53d3f74c3243b7f7f73e53a,BlockId.java,@ThreadSafe,Clarify specific facts about usage,
+bazelbuild/bazel,https://github.com/bazelbuild/bazel/commit/e955287c84e4bcaf309e57ddab1bf808ce3cf046,EvaluableGraph.java,@ThreadSafe,Clarify specific facts about usage,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/4c8cc12a7b658d40fb5b1db01a37ae19e4123297,HeartbeatScheduler.java,@ThreadSafe,Clarify specific facts about usage,
+eXist-db/exist,https://github.com/eXist-db/exist/commit/3ff24a47ae91da3504f47866f5c52996897ce58a,StylesheetResolverAndCompiler.java,@ThreadSafe,Clarify specific facts about usage,
+lenskit/lenskit,https://github.com/lenskit/lenskit/commit/ad84bf1d7d00e5eb187e8a9b077d80bccd2ce198,SignificanceWeightedVectorSimilarity.java,@ThreadSafe,Clarify specific facts about usage,
+eXist-db/exist,https://github.com/eXist-db/exist/commit/0855642599bf2237f20efdcc9c748590ab1a4bd2,LockedDocumentMap.java,@NotThreadSafe,Clarify specific facts about usage,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/d1334261654b6c979ead18640f90301310d02490,NettyRemoteBlockReader.java,@NotThreadSafe,Clarify specific facts about usage,
+mongodb/mongo-java-driver,https://github.com/mongodb/mongo-java-driver/commit/6bd3143b37da9b79bd5e9d72510788dab1b43de2,ParallelScanOptions.java,@NotThreadSafe,Clarify specific facts about usage,
+gradle/gradle,https://github.com/gradle/gradle/commit/76fe13fb6dc264cb4bb532892bd9532032328774,CachingDependencySubstitutionApplicator.java,@NotThreadSafe,Clarify specific facts about usage,
+gradle/gradle,https://github.com/gradle/gradle/commit/83e05ba762cf3ed24b60cf8e9b1bdce6da4130ef,CompatibilityAdapterForTaskInputs.java,@Incubating,Clarify specific facts about usage,
+gradle/gradle,https://github.com/gradle/gradle/commit/c6b5528c2f5f7f7aba78fa3522e4c01c936c5bff,VersionControlSpec.java,@Incubating,Clarify specific facts about usage,
+apache/beam,https://github.com/apache/beam/commit/024b6e05a99b12142a2b10c0612288c6177eff96,KinesisIO.java,@Experimental,Clarify specific facts about usage,
+apache/beam,https://github.com/apache/beam/commit/ec956c85efa16d00c5e218ee1257b8ee62a2013d,FileSystems.java,@Experimental(Kind.FILESYSTEM),Clarify specific facts about usage,
+grpc/grpc-java,https://github.com/grpc/grpc-java/commit/2db02b52be5c47217630a4b3a8a99cec7e27a9fa,NegotiationType.java,@ExperimentalApi,Clarify specific facts about usage,
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/5c3c0459d6d6ae5d18432b4cc10e9416512f18de,ScreenAndComponent.java,@SystemLevel,Clarify specific facts about usage,
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/8b449f38a4e527caee9d47625e0037e93d9af5d0,ScreenProfilerEvent.java,@SystemLevel,Clarify specific facts about usage,
+apache/hbase,https://github.com/apache/hbase/commit/552400e53641991d959da4e27042b2157172e373,RSGroupAdminEndpoint.java,@InterfaceAudience.Private,Clarify specific facts about usage,
+apache/hbase,https://github.com/apache/hbase/commit/6f072809eee22a04be35a013ede41986484adc04,RSGroupInfoManager.java, @InterfaceAudience.Private,Clarify specific facts about usage,
+CyanogenMod/android_frameworks_base,https://github.com/CyanogenMod/android_frameworks_base/commit/a73b8fd1f4faaad00d8a49d6e496aaf249fa7003,UiAutomation.java,@TestApi,Clarify specific facts about usage,
+aosp-mirror/platform_frameworks_base,https://github.com/aosp-mirror/platform_frameworks_base/commit/1327d3c3fabc9b4ffeb20e589f7b2350567b681f,NotificationAssistantService.java,@TestApi,Clarify specific facts about usage,
+SeleniumHQ/selenium,https://github.com/SeleniumHQ/selenium/commit/8f325df6feb805f40990929ee01e3b8cd528b2a6,StandaloneConfiguration.java,@VisibleForTesting,Clarify specific facts about usage,
+mtotschnig/MyExpenses,https://github.com/mtotschnig/MyExpenses/commit/14e184e8de6370f2c355549bdfc10400dec9c367,Model.java,@VisibleForTesting,Clarify specific facts about usage,
+graalvm/fastr,https://github.com/graalvm/fastr/commit/f8db27acee7999e794a07f033a1c06bd413afe38,LSegments.java,@TruffleBoundary,Clarify specific facts about usage,
+graalvm/fastr,https://github.com/graalvm/fastr/commit/530c6eb7437d39cc5c92d3336ff4883433681711,MarsagliaMulticarry.java,@TruffleBoundary,Clarify specific facts about usage,
+apache/hadoop,https://github.com/apache/hadoop/commit/85826f6ca5a6d06b711a6805f7a1a6788852db05,YarnConfiguration.java,@Unstable,Clarify specific facts about usage,
+apache/flink,https://github.com/apache/flink/commit/5983069fc2a40492b514ffa53a508cd8992c6bf2,WindowedStream.java,@PublicEvolving,Clarify specific facts about usage,
+k9mail/k-9,https://github.com/k9mail/k-9/commit/19cd7b997e40ec9358e71ec5266c4c97be5d02bf,AttachmentInfoExtractor.java,@WorkerThread,Clarify specific facts about usage,
+xwiki/xwiki-platform,https://github.com/xwiki/xwiki-platform/commit/9e25a0940ad3dc7b5083f7f71a1bcc57efc8bdc1,AttachmentReference.java,@Transient,Clarify specific facts about usage,
+MovingBlocks/Terasology,https://github.com/MovingBlocks/Terasology/commit/b0b78bb0abc4d3d53930c3e2cefac8b781f2b685,ParticleSystemManager.java,@API,Clarify specific facts about usage,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/c4f51f2efc4cd0b1ed5cfb5e8e41a2b9ad736697,ClientTypes.java,@PrivateApi,Clarify specific facts about usage,
+JetBrains/MPS,https://github.com/JetBrains/MPS/commit/d7a86c0646101f44eae9dc276eecb2bf9606ff9d,ScopeUtils.java,@ToRemove(version = 3.5),Clarify specific facts about usage,
+SonarSource/sonarqube,https://github.com/SonarSource/sonarqube/commit/6da2fd6aea26d9d29c3d3f39419e000009be9c14,InitializerExecutionHandler.java,@FunctionalInterface,Clarify specific facts about usage,
+aosp-mirror/platform_packages_apps_contacts,https://github.com/aosp-mirror/platform_packages_apps_contacts/commit/9deead63f39d6891385b29d8f76c07136d89699a,ContactEditorUtils.java,@NeededForTesting,Clarify specific facts about usage,
+openstreetmap/josm,https://github.com/openstreetmap/josm/commit/d5873bc81f9bca9bb8b013780c4b9eef82fde4ad,Data.java,@FunctionalInterface,Clarify specific facts about usage,
+apache/poi,https://github.com/apache/poi/commit/b91b5c57155f21e5b17c8ac4eb91bcd08ec13027,ClientAnchor.java,"@Removal(version=""3.17"")",Clarify specific facts about usage,
+maskarade/Android-Orma,https://github.com/maskarade/Android-Orma/commit/57a91d373d80543183e4e83572a4889fa9848ff0,OrmaRecyclerViewAdapter.java,@NonNull,Introduce new feature,static analysis
+abixen/abixen-platform,https://github.com/abixen/abixen-platform/commit/52e759e22fee2ed3a605b13de2adabb45d2032d1,DatabaseDataSource.java,@NotNull,Introduce new feature,static analysis
+actorapp/actor-platform,https://github.com/actorapp/actor-platform/commit/96b0915d4ac54d5c6a5575dfb16acc685296e1ed,WebRTCProvider.java,@NotNull,Introduce new feature,static analysis
+andstatus/andstatus,https://github.com/andstatus/andstatus/commit/f5b3a7f9d536dd6abf509ece91aaf6f42fdc2265,MyBaseListActivity.java,@Nullable,Introduce new feature,static analysis
+anthonycr/Lightning-Browser,https://github.com/anthonycr/Lightning-Browser/commit/efd5780c3149a7f80ded6791749022ee30ff1b3b,BaseSuggestionsTask.java,@NonNull,Introduce new feature,static analysis
+aosp-mirror/platform_frameworks_base,https://github.com/aosp-mirror/platform_frameworks_base/commit/8de9566375e1108e9aa274e2369d775b9a8c9035,IBinder.java,@Nullable,Introduce new feature,static analysis
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/9d8d936607b58e83fbf1ef57b5bd9846829abb66,ViewModelStores.java,@NonNull,Introduce new feature,static analysis
+apache/beam,https://github.com/apache/beam/commit/717ab9272036ff630f3f09829b706024aacdb450,FlinkBatchPipelineTranslator.java,@Nullable,Introduce new feature,static analysis
+apache/beam,https://github.com/apache/beam/commit/7b2edb153967ec5d3cfa1e2e9fe538159f953b30,NexmarkQueryModel.java, @Nullable,Introduce new feature,static analysis
+apache/incubator-hivemall,https://github.com/apache/incubator-hivemall/commit/39ef6928beb69b4815b9744ac2d17d5b6734c9bf,UDTFWithOptions.java,@Nonnull,Introduce new feature,static analysis
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/865e22f1ae9e273e25cd412c94eacdc0f363dbc4,SegmentNodeState.java, @Nonnull,Introduce new feature,static analysis
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/fcbf4ae0c29ef58b602b615b7e0acb81ffd69102,DefaultSyncContext.java, @Nonnull,Introduce new feature,static analysis
+caskdata/cdap,https://github.com/caskdata/cdap/commit/c6ea180bd04381cc20665951e4ffbdf604de1c71,AppMetadataStore.java,@Nullable,Introduce new feature,static analysis
+cgeo/cgeo,https://github.com/cgeo/cgeo/commit/65d3de706c2696829aece7e433fdc118422493f7,GeopeitusConnector.java,@NonNull,Introduce new feature,static analysis
+commons-app/apps-android-commons,https://github.com/commons-app/apps-android-commons/commit/79a22c1aca637b6458378b76df8e1caaa377ea6f,Media.java,@Nullable,Introduce new feature,static analysis
+consulo/consulo,https://github.com/consulo/consulo/commit/f4efbac50002568075863b204578538a58bc7fec,SdkImpl.java,@NotNull,Introduce new feature,static analysis
+bumptech/glide,https://github.com/bumptech/glide/commit/c660ff430f3018c9090e68f54328034e07a760db,LruPoolStrategy.java,@Nullable,Introduce new feature,static analysis
+Camelcade/Perl5-IDEA,https://github.com/Camelcade/Perl5-IDEA/commit/8114de9367ed12ae589a290560d006199538ccb3,PerlCreatePackageFromTemplateHandler.java,@NotNull,Introduce new feature,static analysis
+docker-java/docker-java,https://github.com/docker-java/docker-java/commit/0d2562e8da848bd3480d7aff981f6e7dae968f87,UpdateContainerCmdImpl.java,@NotNull,Introduce new feature,static analysis
+drewnoakes/metadata-extractor,https://github.com/drewnoakes/metadata-extractor/commit/f14dfc8335e55666198970e33bbeb83f70022b31,Mp4MetaHandler.java,@NotNull,Introduce new feature,static analysis
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/d712a86095f749645d183a478875e6413d9530dd,EntitySnapshotService.java,@Nullable,Introduce new feature,static analysis
+gerrit-review/gerrit,https://github.com/gerrit-review/gerrit/commit/1889c3f06dedbdf8aab0d41e08156dcf52fef9ea,NoteDbChangeState.java,@Nullable,Introduce new feature,static analysis
+gerrit-review/gerrit,https://github.com/gerrit-review/gerrit/commit/b273cfd04d277801910c2feb5b15971a8ed24da6,ListTags.java,@Nullable,Introduce new feature,static analysis
+go-lang-plugin-org/go-lang-idea-plugin,https://github.com/go-lang-plugin-org/go-lang-idea-plugin/commit/6eac010577e49d800f5316eaed13118778bf1585,GoCharFilter.java, @NotNull,Introduce new feature,static analysis
+go-lang-plugin-org/go-lang-idea-plugin,https://github.com/go-lang-plugin-org/go-lang-idea-plugin/commit/443566af5e6850f5b66ad131ba4b9ab03f2d598d,DlvVm.java, @NotNull,Introduce new feature,static analysis
+gradle/gradle,https://github.com/gradle/gradle/commit/f3410bf22080a6ea5f9f6c5a16aa78c776e9d2e0,DefaultExtraPropertiesExtension.java,@Nullable,Introduce new feature,static analysis
+gradle/gradle,https://github.com/gradle/gradle/commit/66127bb9028c9ccc7dd913eb2cae20fb7cbc51f1,Factory.java,@Nullable,Introduce new feature,static analysis
+facebook/buck,https://github.com/facebook/buck/commit/54cf2ede9de28e447b2619738f8d4c0576f9a83c,Resolver.java,@Nullable,Introduce new feature,static analysis
+findbugsproject/findbugs,https://github.com/findbugsproject/findbugs/commit/46548ff1033d0c93468bd7edb095e250f1a4ea37,TypeDataflow.java, @CheckForNull,Introduce new feature,static analysis
+JetBrains/intellij-plugins,https://github.com/JetBrains/intellij-plugins/commit/dfe96e1cd49b92062d8e644ef934df40c2b0d185,FlexSdkComboBoxWithBrowseButton.java,@NotNull,Introduce new feature,static analysis
+erlang/erlide_eclipse,https://github.com/erlang/erlide_eclipse/commit/604d16d6fb2fd46df453d3f63fb59d45021646c4,ListDialogField.java,@NonNull,Introduce new feature,static analysis
+JetBrains/intellij-community,https://github.com/JetBrains/intellij-community/commit/4bf04ac29354b8bba0e09f287cc57395c863c203,PropertyUtilBase.java,@Nullable,Introduce new feature,static analysis
+JetBrains/intellij-community,https://github.com/JetBrains/intellij-community/commit/c4690d8bc39d63ed80157d3ca582a49f2f71cfa8,CompositeInputFilter.java,@NotNull,Introduce new feature,static analysis
+JetBrains/intellij-plugins,https://github.com/JetBrains/intellij-plugins/commit/85a051e1231a777d47946428a636637162dc69e0,CfmlStructureViewProvider.java,@NotNull,Introduce new feature,static analysis
+JetBrains/kotlin,https://github.com/JetBrains/kotlin/commit/61767bb0ea27a2802c091ce67e13f1b542416771,Visibilities.java,@NotNull,Introduce new feature,static analysis
+kohsuke/jenkins,https://github.com/kohsuke/jenkins/commit/127a6004a13bf670a5d7da81758a6d48d232fc3d,BuildStep.java,@Nonnull,Introduce new feature,static analysis
+MinecraftForge/MinecraftForge,https://github.com/MinecraftForge/MinecraftForge/commit/864b05074e2faebb0642fbf61cfd30f4828febbb,ShapelessOreRecipe.java,@Nonnull,Introduce new feature,static analysis
+Graylog2/graylog2-server,https://github.com/Graylog2/graylog2-server/commit/4d7c0fa626f404c30d7cd06188ee396ebfe4ba13,DatabaseStats.java,@Nullable,Introduce new feature,static analysis
+JetBrains/intellij-community,https://github.com/JetBrains/intellij-community/commit/1e8bbf597aa4023a23594ed8b6a650765f499809,MavenServerManager.java,@NotNull,Introduce new feature,static analysis
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/97cb2f0821bc21477cd0aa2fd4d3374cd4fe54b4,StackJson.java,@NotNull,Introduce new feature,static analysis
+JetBrains/MPS,https://github.com/JetBrains/MPS/commit/f351abb5a6188d6df5d1343ac7a4bfc29248ae54,NodeValidationProblem.java,@NotNull,Introduce new feature,static analysis
+HubSpot/Singularity,https://github.com/HubSpot/Singularity/commit/3200fac40cfb65d24dc12839d9758de899a06455,SingularityTaskId.java,@Nonnull,Introduce new feature,static analysis
+kalessil/phpinspectionsea,https://github.com/kalessil/phpinspectionsea/commit/88ef2d008d72ec766e9e41a816c157bb824d14e2,PrefixedIncDecrementEquivalentInspector.java,@NotNull,Introduce new feature,static analysis
+wordpress-mobile/WordPress-Android,https://github.com/wordpress-mobile/WordPress-Android/commit/d834c2a7e5d09ab66061ff956298c10b3cec9372,UploadHandler.java,@NonNull,Introduce new feature,static analysis
+WPIRoboticsProjects/GRIP,https://github.com/WPIRoboticsProjects/GRIP/commit/e6dbe9397f09d54b4b853542915271664bf9a90d,Socket.java,@Nullable,Introduce new feature,static analysis
+kohsuke/jenkins,https://github.com/kohsuke/jenkins/commit/bdb3c0c6d5e368d3751b3c6dcac8863df217604a,PluginManager.java,@CheckForNull,Introduce new feature,static analysis
+kohsuke/jenkins,https://github.com/kohsuke/jenkins/commit/5a3823e85cf2275f8b790288307016a8d8ff935e,Secret.java,@Nonnull,Introduce new feature,static analysis
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/commit/03133630cb442fd2ee5b775002a1d995fded06df,DefaultRequestPath.java,@Nullable,Introduce new feature,static analysis
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/commit/7e251274ee574589d53e98a2042e731de4b8ac9c,DestinationResolvingMessageRequestReplyOperations.java,@Nullable,Introduce new feature,static analysis
+OpenCubicChunks/CubicChunks,https://github.com/OpenCubicChunks/CubicChunks/commit/2f92ff0d4a096f3e0333df35052c49a57af70ff9,ArrayDequeHashSet.java,@Nonnull,Introduce new feature,static analysis
+OpenHFT/Chronicle-Queue,https://github.com/OpenHFT/Chronicle-Queue/commit/7848b45884294462af5fece19dd02e5e98fe69e9,ChronicleQueue.java, @NotNull,Introduce new feature,static analysis
+neo4j/neo4j,https://github.com/neo4j/neo4j/commit/7adf8990fece44940996cb09ba437e0eaa4aa702,SetDefaultAdminCommandProvider.java,@Nonnull,Introduce new feature,static analysis
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/commit/c292a89b24fbf955fd0eecf00b837212909f0e7e,AbstractSlsbInvokerInterceptor.java,@Nullable,Introduce new feature,static analysis
+Raizlabs/DBFlow,https://github.com/Raizlabs/DBFlow/commit/93394fba5e1140629880848c0fe58760f7676e33,NameAlias.java,@NonNull,Introduce new feature,static analysis
+Rajawali/Rajawali,https://github.com/Rajawali/Rajawali/commit/e77cb78b7a0aba6949a0fc5e18de6e8100475da1,EffectPass.java,@NonNull,Introduce new feature,static analysis
+mtotschnig/MyExpenses,https://github.com/mtotschnig/MyExpenses/commit/42ae80063648c93e10f43a31307b4b47b369525a,SyncBackendProvider.java, @NonNull,Introduce new feature,static analysis
+SlimeKnights/TinkersConstruct,https://github.com/SlimeKnights/TinkersConstruct/commit/6cbb565efd51bad31d7a84f27d8b9c75e0a21d99,BlockSoil.java,@Nonnull,Introduce new feature,static analysis
+SonarSource/sonar-java,https://github.com/SonarSource/sonar-java/commit/a35a0a4fb9778e9461de1c428b30f65d3d19db78,PreparedStatementAndResultSetCheck.java,@Nullable,Introduce new feature,static analysis
+open-keychain/open-keychain,https://github.com/open-keychain/open-keychain/commit/33bc407e7ac9145654e4cb96afe3d2a23d22b47b,Notify.java,@CheckResult,Introduce new feature,runtime check
+Graylog2/graylog2-server,https://github.com/Graylog2/graylog2-server/commit/d52f64dfd4b8b92a33d55ab254f82a8bee2f8266,RoleResponse.java,@NotBlank,Introduce new feature,runtime check
+HubSpot/Singularity,https://github.com/HubSpot/Singularity/commit/77285b384e6bbf3ca672e500edb6289f7769d01c,SingularityS3UploaderConfiguration.java,@NotEmpty,Introduce new feature,runtime check
+maskarade/Android-Orma,https://github.com/maskarade/Android-Orma/commit/6f56fc9e0574697412f7511f7e7c707d6482239c,Inserter.java,@CheckResult,Introduce new feature,runtime check
+google/closure-compiler,https://github.com/google/closure-compiler/commit/2c1287643dd0b14bc892419b6298d81d31841353,CodingConventions.java,@Immutable,Introduce new feature,runtime check
+consulo/consulo,https://github.com/consulo/consulo/commit/bccbd506b4761eb22d9cf2e47e685ab05745dda2,ModuleUtilCore.java,@RequiredReadAction,Introduce new feature,runtime check
+consulo/consulo,https://github.com/consulo/consulo/commit/e588918e4ff20aae15aecb93b8fc622e6d2483ed,MockFileDocumentManagerImpl.java,@RequiredReadAction,Introduce new feature,runtime check
+consulo/consulo,https://github.com/consulo/consulo/commit/df2ceb752dfe27cf3daa0316b1471c2ca760fd6c,Application.java, @RequiredDispatchThread,Introduce new feature,runtime check
+consulo/consulo,https://github.com/consulo/consulo/commit/814baed5d226914f8d672be0a4a23891a83b45e3,LanguageFolding.java,@RequiredReadAction,Introduce new feature,runtime check
+consulo/consulo,https://github.com/consulo/consulo/commit/3cfc85a453eaa68c53dadf7205a7cb14de5ba34d,CompileAction.java,@RequiredDispatchThread,Introduce new feature,runtime check
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/7378515bf4531fd1428edc70a42077e7832bb777,UserEndpoint.java,@Valid,Introduce new feature,runtime check
+google/guava,https://github.com/google/guava/commit/525112c0128c2fa065a2b48424995d24038ebf6e,SetMultimap.java,@CheckReturnValue,Introduce new feature,runtime check
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/2f993ad2f7758d46216cd27417543ee1ac7fc5b6,PolicyController.java,@Valid,Introduce new feature,runtime check
+typetools/checker-framework,https://github.com/typetools/checker-framework/commit/9179fa9307e6cd0ef01edb48cbde133799de08ca,Math.java,@PolyUpperBound,Introduce new feature,runtime check
+OpenNMS/opennms,https://github.com/OpenNMS/opennms/commit/60f84411e2aca8dff81d306160720e00692feafb,Expression.java," @JsonProperty(""value"")",Introduce new feature,mapping and data binding
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/b9d1c4edd3fe889b7d57717e9d747031fb6585a9,DynamicResultSet.java,@JsonProperty,Introduce new feature,mapping and data binding
+camunda/camunda-bpm-platform,https://github.com/camunda/camunda-bpm-platform/commit/8ea61fef48699c8e66e9e051fba61e1c9075a809,HistoricFormFieldDto.java,"@JsonTypeName(""variableUpdate""",Introduce new feature,mapping and data binding
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/4f3c447d08dd5971984ebd576cfcec5217bcf72f,Ambari.java,@Table,Introduce new feature,mapping and data binding
+pentaho/pentaho-kettle,https://github.com/pentaho/pentaho-kettle/commit/3ae35e390c5983c91b25299cb1ba0348137d6a7e,XMLField.java,@Injection,Introduce new feature,mapping and data binding
+pentaho/pentaho-kettle,https://github.com/pentaho/pentaho-kettle/commit/981fa1fb35c892b2bfab8ec56737d3414bef6efd,S3CsvInputMeta.java,@Injection,Introduce new feature,mapping and data binding
+hibernate/hibernate-orm,https://github.com/hibernate/hibernate-orm/commit/6b79bde09961421f81dfd95cd2ffbc5709288bb0,Phone.java,"@Column(name = ""phone_number"")",Introduce new feature,mapping and data binding
+apache/usergrid,https://github.com/apache/usergrid/commit/7dc9aa0b784171f263e9b879d0926198fb88820c,EdgeIndexEvent.java,@JsonDeserialize(as = AsyncEvent.class),Introduce new feature,mapping and data binding
+openmrs/openmrs-core,https://github.com/openmrs/openmrs-core/commit/2086c2f833551853ed551763fd8180428e75c256,BaseOpenmrsMetadata.java,@ManyToOne,Introduce new feature,mapping and data binding
+Peergos/Peergos,https://github.com/Peergos/Peergos/commit/44789252de68af2ee377b3738557f19aafa42aee,UserContext.java,@JsProperty,Introduce new feature,mapping and data binding
+IQSS/dataverse,https://github.com/IQSS/dataverse/commit/214c6befe0979baa83e5aa27d998fe8d50090860,DatasetVersion.java,"@Column(columnDefinition=""TEXT"")",Introduce new feature,mapping and data binding
+IQSS/dataverse,https://github.com/IQSS/dataverse/commit/59072884ad67bd2ba109ae8ac404d4d94259f087,DatasetFieldCompoundValue.java,@Table,Introduce new feature,mapping and data binding
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/28692e2b3e787e0dd1b9460a8cf94541dad7bdd2,WebUserSessionSource.java,@Inject,Introduce new feature,dependency injection
+apache/james-project,https://github.com/apache/james-project/commit/c60a92e04c35b8a0c104392e3e2d2975b9ee1eaf,ElasticSearchIndexer.java,@Inject,Introduce new feature,dependecny injection
+eclipse/hono,https://github.com/eclipse/hono/commit/f0fa757f0bb6f00f906bcc49aa9fd8623787c08e,InMemoryRegistrationAdapter.java,@Service,Introduce new feature,dependecny injection
+Netflix/genie,https://github.com/Netflix/genie/commit/d76cdfe610e9de4354e5c18a2901f887919c98c7,JpaJobExecutionRepository.java,@Repository,Introduce new feature,dependecny injection
+geoserver/geoserver,https://github.com/geoserver/geoserver/commit/a4e00c16e7b4ca9380597fccc65f486ab88ce2b7,SettingsController.java,"@Qualifier(""geoServer"")",Introduce new feature,dependecny injection
+deeplearning4j/deeplearning4j,https://github.com/deeplearning4j/deeplearning4j/commit/c5c43adb4dda5c7015e379c1450617095524b008,RnnToCnnPreProcessor.java,@EqualsAndHashCode,Introduce new feature,code generation
+deeplearning4j/deeplearning4j,https://github.com/deeplearning4j/deeplearning4j/commit/0a0f9bed2838e514346fa4fdc3a971f0203b8729,CnnToRnnPreProcessor.java,@Getter(AccessLevel.NONE),Introduce new feature,code generation
+deeplearning4j/deeplearning4j,https://github.com/deeplearning4j/deeplearning4j/commit/b8bb8e506fae122092438897ff3cf8c0d0b66250,EarlyStoppingConfiguration.java,@NoArgsConstructor,Introduce new feature,code generation
+deeplearning4j/deeplearning4j,https://github.com/deeplearning4j/deeplearning4j/commit/0c861c8bc4c06e66ad174e9d92b84c2c770b86fe,SimpleCNN.java,@NoArgsConstructor,Introduce new feature,code generation
+tananaev/traccar,https://github.com/tananaev/traccar/commit/33d6d288d07fdd24fa8a6307d3eff8d371f5932a,ReportResource.java,@Produces,move,methdo to class
+Team-RTG/Realistic-Terrain-Generation,https://github.com/Team-RTG/Realistic-Terrain-Generation/commit/fba17c1bbe061b771b66ab8d8eb9d3ca83693f6d,WorldTypeMessageEventHandler.java,@SideOnly(Side.CLIENT),move,methdo to class
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/399fc3880d49c122829716f0b8650df00f4d19f9,FileSystemMasterClientRestServiceHandler.java,@Produces,move,method to class
+hawkular/hawkular-metrics,https://github.com/hawkular/hawkular-metrics/commit/ce7872bbf00232397daa13bec207748962cb4e75,PingHandler.java,@Produces({ APPLICATION_JSON }),move,method to class
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/b02a39b6658ccc2ed924e035318d5d5c5c069c77,BaseFragmentActivityJB.java,@RequiresApi(16),move,class to method
+ACRA/acra,https://github.com/ACRA/acra/commit/e79aac5d738c17d4010ebc6e112a0cc9ddc44501,ConfigurationBuilder.java,"@SuppressWarnings(""unused"")",move,method to class
+anthonycr/Lightning-Browser,https://github.com/anthonycr/Lightning-Browser/commit/bd308dead7c92fb7b51f5af8260c12cb18e3b529,MainActivity.java,"@SuppressWarnings(""deprecation"")",move,class to methdo
+davidmoten/rxjava-extras,https://github.com/davidmoten/rxjava-extras/commit/98bfe1faac56cc230b30cf5a03f5b7822f741cbc,OnSubscribeMatch.java,"@SuppressWarnings(""unchecked"")",move,LOCAL_VARIABLE to method
+graalvm/fastr,https://github.com/graalvm/fastr/commit/4cd1c14a254aeb0e1af0eaee447ce8e7634d12cf,RConnection.java,"@SuppressWarnings(""unused"")",move,methdo to paremater
+Azure/azure-sdk-for-java,https://github.com/Azure/azure-sdk-for-java/commit/fe116edf73201648062d4c028e474983f30fc836,BatchAccountsImpl.java,"@LangDefinition(ContainerName = ""~/"")",,
+Azure/azure-sdk-for-java,https://github.com/Azure/azure-sdk-for-java/commit/5113e8c2625485cdf2383e7aaaa55684c755a249,JobsImpl.java,@LangDefinition,,
+Azure/azure-sdk-for-java,https://github.com/Azure/azure-sdk-for-java/commit/f82a315c14a9ab3a27e4a0ac8813c2515195cc70,TcpProbe.java,@LangDefinition(),,
+bazelbuild/bazel,https://github.com/bazelbuild/bazel/commit/73433a7017365c0b670e4bf374bbec495d12ddd2,AppleConfiguration.java,@SkylarkCallable,,
+broadinstitute/gatk,https://github.com/broadinstitute/gatk/commit/372d42fcd6538aca01ac2f0a82094494c3c03470,PadTargets.java,@DocumentedFeature,,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/ee4e6cb791251d0f418a56cd67d4f20e19744224,BandedWeightFulfillmentOptionImpl.java,@IgnoreEnterpriseBehavior,,
+caelum/vraptor4,https://github.com/caelum/vraptor4/commit/f57cf701fac0de260a8d4cbc4cc8a7a0d54eff51,MessageGsonConverter.java,@Alternative,,
+consulo/consulo,https://github.com/consulo/consulo/commit/19c6040349107b915604d9f25de05a058b74f29a,ProductionResourceContentFolderTypeProvider.java,@LazyInstance,,
+ContainerSolutions/minimesos,https://github.com/ContainerSolutions/minimesos/commit/fd29c65223fc9de565c39977f7c72271577219fc,CommandUninstall.java,@Parameters,,
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/418cb5242833851b09ae164f3a31f15f49c24cfb,DatatypesControllerManager.java,@Component,,
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/341385b5cdcc8432bc474e88e9d0f0da8ef3af24,CubaHorizontalSplitPanelState.java,@NoLayout,,
+Deletescape-Media/Lawnchair,https://github.com/Deletescape-Media/Lawnchair/commit/5de8bfd8f7e41a20b303a23dde1463ae985f38c7,Utilities.java,@AddTrace,,
+gradle/gradle,https://github.com/gradle/gradle/commit/048edda60ecfffa13e3857da43851a96b388870f,Settings.java,@UsedByScanPlugin,,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/e655acff05ba9ac67b36a182926f0a2797328af7,LocalExecutorStatsImpl.java,@Probe,,
+hs-web/hsweb-framework,https://github.com/hs-web/hsweb-framework/commit/44d8cdbf65e6a9c3d06312e0326be0c60a6e68f9,SimpleOAuth2ServerConfigService.java,@CacheConfig,,
+INRIA/spoon,https://github.com/INRIA/spoon/commit/2fef026163523688552156faefee5447abf60c4a,CtParameterReference.java,@PropertyGetter,,
+JikesRVM/JikesRVM,https://github.com/JikesRVM/JikesRVM/commit/0f2a24fbe045f819fe1eec88cb07128bd0ff457e,BootRecord.java,@Untraced,,
+jonasoreland/runnerup,https://github.com/jonasoreland/runnerup/commit/e8954dc464a3163b7e15f854d37644ce6fde926d,StateService.java,@TargetApi,,
+keycloak/keycloak,https://github.com/keycloak/keycloak/commit/ac9268bd48e6d3defa52e06090f3a29b24a051d2,OIDCClientRegistrationProvider.java, @Produces,,
+killbill/killbill,https://github.com/killbill/killbill/commit/d3a00cb3fc5af106c7baedf16e5f99f5d47a7d1d,RoleDefinitionJson.java,@ApiModelProperty(required = true),,
+LambdaInnovation/AcademyCraft,https://github.com/LambdaInnovation/AcademyCraft/commit/9574470bcc1ea69b32bc7447486e464baa5e8096,EventHandlerServer.java,@RegistrationClass,,
+linkedin/pinot,https://github.com/linkedin/pinot/commit/7bde232a8fecbde271efd37f76806ce210782bc8,AnomalyFunctionSpec.java,@Enumerated(EnumType.STRING),,
+matsim-org/matsim,https://github.com/matsim-org/matsim/commit/18d05cd07990451f61605f8ff88bf56263966b80,OpdytsConfigGroup.java,@StringGetter(MAX_TOTAL_MEMORY),,
+MovingBlocks/Terasology,https://github.com/MovingBlocks/Terasology/commit/006cdaf6e18bf58a44030387efc100419813aa42,RelativeLayoutHint.java,@LayoutConfig,,
+mulesoft/mule,https://github.com/mulesoft/mule/commit/aeef0fae756487fde6ae7dd9429895d970fe51d9,ObjectSource.java,"@Alias(""i18n"")",,
+Netflix/genie,https://github.com/Netflix/genie/commit/240f89d2cc33a8defe43cacf085d86432419463e,JobsLocationsProperties.java,@Validated,,
+OneBusAway/onebusaway-application-modules,https://github.com/OneBusAway/onebusaway-application-modules/commit/2413485350e2b4fda7260a69f167fc4b2188ba12,TimeRangeModel.java,@GenericGenerator,,
+OpenClinica/OpenClinica,https://github.com/OpenClinica/OpenClinica/commit/727cf47b2cccaa4ace2d27e957ace2471175cc4e,StudyEventDao.java,@Transactional(,,
+perfectsense/brightspot-cms,https://github.com/perfectsense/brightspot-cms/commit/4c0ddc7f616891434451d2e8b5759b92e372366a,History.java,@Raw,,
+realm/realm-java,https://github.com/realm/realm-java/commit/c9380bdadf8c429f47962d21a8cc392fd4b6fe70,OsObject.java,@KeepMember,,
+RestComm/Restcomm-Connect,https://github.com/RestComm/Restcomm-Connect/commit/c6c358e1d95a054405be9fa4f8516d1abb9f2f04,RasRestService.java,@RvdAuth,,
+restx/restx,https://github.com/restx/restx/commit/e0e01e52e8089c0e33b6ccc1af92e7213712335e,MessagesAdminResource.java,@RolesAllowed,,
+wildfly/wildfly,https://github.com/wildfly/wildfly/commit/8956f0cdf4a10656fcdfd29255e1325b077fd9eb,InfinispanSessionManagerFactoryBuilderProvider.java,@MetaInfServices,,

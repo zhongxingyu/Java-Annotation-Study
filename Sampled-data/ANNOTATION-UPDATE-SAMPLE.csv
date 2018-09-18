@@ -1,0 +1,385 @@
+Repository Name,Commit Link,File Name,Update Behavior,Remark
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/65e3af913c0ef28c4125cbd0ec8ab30475b350f2,SearchEngineHelperConfiguration.java,update class name,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/4c340b1b25c47ca0f32b650899e83bf93bfdc80e,WorkflowInstanceWebConfiguration.java,update class name,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/12b635a5b8482fdb44dcd4703aca4f74192d0686,WebFormServiceConfiguration.java,update class name,
+apache/camel,https://github.com/apache/camel/commit/9c01dc084db422773c51a56489a10ee0dc9812b2,SdbComponentAutoConfiguration.java,update class name,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/dc9a496ad7051c262332197e5fd58678368ad79d,AlluxioMasterRestServiceHandler.java,update class name,
+Alluxio/alluxio,https://github.com/Alluxio/alluxio/commit/f5cddeb3e1dde82f16968ee9cf876cd52d4407da,BlockWorkerClientRestServiceHandler.java,update class name,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/d4d7357d0a3c35332c13e3eef9fc1fb2a34e5c10,RingbufferCodecTemplate.java,update class name,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/49579573895e78134e30e234ef3340f00919c80a,CountdownLatchCodecTemplate.java,update class name,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/fce4de67fc3f8a7b4c5ed8b74a724fb24a33dab1,ProratedOrderItemAdjustmentImpl.java,update class name,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/73d99fa8e4b310248828c03cac29b7bdc8767331,FieldImpl.java,update class name,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/b228a1a5a621ecba0fa5b4e55dcd67ce0303c112,DatabaseResourceResolverExtensionManager.java,update class name,
+apereo/cas,https://github.com/apereo/cas/commit/3ee962a504ed2e18017af913851395f946afed47,OidcConfiguration.java,update class name,
+Jasig/uPortal,https://github.com/Jasig/uPortal/commit/63ab3d5c727b60448093003dcf144c8e93800951,SessionRESTController.java,update class name,
+liferay/liferay-docs,https://github.com/liferay/liferay-docs/commit/ec2883bcce6bdacfda43e18b66236829c561314d,ExampleConfigPortlet.java,update class name,
+liferay/liferay-docs,https://github.com/liferay/liferay-docs/commit/3a3b9e159ee41207c62093b025492c5edcd01a76,ExampleConfiguration.java,update class name,
+apache/tinkerpop,https://github.com/apache/tinkerpop/commit/f7e2945a8124e9de7f65b1e7eaf01fac2c453671,RemoteGraph.java,update class name,
+apache/tinkerpop,https://github.com/apache/tinkerpop/commit/ab96ed18b13e959da654b844f791b08381f10bd3,HadoopGraph.java,update class name,
+apache/tinkerpop,https://github.com/apache/tinkerpop/commit/9300485eb3f1a8e4cbf63133e038d64fe6c52372,Neo4jGraph.java,update class name,
+apache/tinkerpop,https://github.com/apache/tinkerpop/commit/4435485b62d7c5a154bd96f7d68740f48e061611,HadoopGraph.java,update class name,
+apache/tinkerpop,https://github.com/apache/tinkerpop/commit/4014a1d0ba2056316e9850aadaa4ac583c7c6107,HadoopGraph.java,update class name,
+jenetics/jenetics,https://github.com/jenetics/jenetics/commit/117d1c48be08075a854f9f7c82df0c3f81f2d373,Data.java,update class name,
+ballerinalang/ballerina,https://github.com/ballerinalang/ballerina/commit/fefba2b85dde752e0d46a4daa9b199e96f01cbf0,GetHeader.java,update class name,
+ballerinalang/ballerina,https://github.com/ballerinalang/ballerina/commit/058eaf34340c7c245d40bc26c542b8ee65187f75,HTTPConnector.java,update class name,
+micdoodle8/Galacticraft,https://github.com/micdoodle8/Galacticraft/commit/43636f9599b1a09be91182774a3cf1348a8344cb,TileBaseUniversalElectrical.java,update class name,
+Vazkii/Botania,https://github.com/Vazkii/Botania/commit/4c0922f0b470fc3b21ab2212f9628a81a7682397,ItemManasteelArmor.java,update class name,
+Teradata/kylo,https://github.com/Teradata/kylo/commit/47ecd18e8492c1e613c61d46d22e995fde1f0513,JpaBatchStepExecution.java,update class name,
+Teradata/kylo,https://github.com/Teradata/kylo/commit/cf8cb720a9c5df971b760e25bbd134217b732cd8,JpaDatasource.java,update class name,
+aidancbrady/Mekanism,https://github.com/aidancbrady/Mekanism/commit/29e31e5b1b00e140ae317c1d244bf397b43cbf75,ChemicalCrystallizer.java,update class name,
+estatio/estatio,https://github.com/estatio/estatio/commit/826cd34d234edeb3f83585dc0a92ea7089f3e80a,CodaMappingManager.java,update class name,
+estatio/estatio,https://github.com/estatio/estatio/commit/7c1ada3d9b684dc2c69f945ec474950fbb120470,OrderInvoiceImportMenu.java,update class name,
+estatio/estatio,https://github.com/estatio/estatio/commit/83f3786f23d6b6c4b229d2b2239175d481091a23,PostalAddress.java,update class name,
+estatio/estatio,https://github.com/estatio/estatio/commit/130ab95285220df3824404b5619e301b7f0ce605,RenderingStrategyMenu.java,update class name,
+AppliedEnergistics/Applied-Energistics-2,https://github.com/AppliedEnergistics/Applied-Energistics-2/commit/588579d67fde94240789a8132359cb4fe12df9f4,RedstoneFlux.java,update class name,
+AppliedEnergistics/Applied-Energistics-2,https://github.com/AppliedEnergistics/Applied-Energistics-2/commit/a7b0872697df655c08fe363795e9404aeaca95e2,RotaryCraft.java,update class name,
+glowroot/glowroot,https://github.com/glowroot/glowroot/commit/e3301aa15d08fc3497da2fd5ac8ac76b2ddcf1be,ResultSetFutureAspect.java,update class name,
+spring-cloud/spring-cloud-sleuth,https://github.com/spring-cloud/spring-cloud-sleuth/commit/045bfc53170871e68f0f2bc1c0f47bfa1f82ae6e,TraceWebAsyncClientAutoConfiguration.java,update class name,
+wso2/msf4j,https://github.com/wso2/msf4j/commit/427cfc73abb7c6ceaed04f427d809b79d9112e37,SampleRequestInterceptorConfig.java,update class name,
+linkedin/ambry,https://github.com/linkedin/ambry/commit/292217cf53ed8fd1b483db7d2e190f6b5a862ecf,FrontendConfig.java,update class name,
+torodb/stampede,https://github.com/torodb/stampede/commit/e98ba7132599b4e99244ce14a8a0e7d043470d90,AuthMode.java,update class name,
+spring-cloud/spring-cloud-stream,https://github.com/spring-cloud/spring-cloud-stream/commit/00b8f1aba1201344ec12f425b5c9249defb96be6,ChannelsEndpointAutoConfiguration.java,update class name,
+nuxeo/nuxeo,https://github.com/nuxeo/nuxeo/commit/7a10fbbd071faa62951fffe410be75d8caeb1ca9,AbstractUMRootObject.java,update regular expression,
+Graylog2/graylog2-server,https://github.com/Graylog2/graylog2-server/commit/639a81cbda6842696e76483666cdabb540531b14,IndexRangesResource.java,update regular expression,
+codenvy/codenvy,https://github.com/codenvy/codenvy/commit/5341a34eb2f2220f85c03c24fe466c1035df8d74,RecipePermissionsFilter.java,update regular expression,
+IQSS/dataverse,https://github.com/IQSS/dataverse/commit/b866b5d3db19316904507d3524f035b68c6f9e90,FileMetadata.java,update regular expression,
+IQSS/dataverse,https://github.com/IQSS/dataverse/commit/99ae9eb245b9564f9be8c4df3f04e25cc6caaadd,BuiltinUser.java,update regular expression,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/d453a4a3870277d34a8c70d427832c6521a0a308,RDSConfigJson.java,update regular expression,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/fb66f3d09d13ef716e1eca97c443361b4ed627ef,FlexSubscriptionRequest.java,update regular expression,
+zstackio/zstack,https://github.com/zstackio/zstack/commit/da8143fd87f1b41f11397bebde356fd4e9957539,CreateAliyunDiskFromRemoteAction.java,update regular expression,
+zstackio/zstack,https://github.com/zstackio/zstack/commit/fa49b3afd115ef6121ec6efb9dbe089fed2e742d,CreateEcsInstanceFromEcsImageAction.java,update regular expression,
+kiegroup/droolsjbpm-integration,https://github.com/kiegroup/droolsjbpm-integration/commit/e990b0679a1624e0d7fa113454e295a8f27d73d8,HistoryResourceImpl.java,update regular expression,
+nysenate/OpenLegislation,https://github.com/nysenate/OpenLegislation/commit/c0c81194241f4c1bbb7392426e85fda88398f81f,TranscriptUpdatesCtrl.java,update regular expression,
+christophd/citrus,https://github.com/christophd/citrus/commit/2ddcae7084991ce172ef368bd2eab67fef9ec235,DockerSteps.java,update regular expression,
+christophd/citrus,https://github.com/christophd/citrus/commit/3f522601ae505377a109b33d16abcf5e957e43dc,MessagingSteps.java,update regular expression,
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/3057aa7316960a2b1609f1a4d765841efbf3053e,CommentDao.java,update SQL statement,
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/24d0e743f9ddbd87de4965f253713112d2faffba,GithubDao.java,update SQL statement,
+apache/ambari,https://github.com/apache/ambari/commit/5d6d3599172be85304e4c9e6b6628a10aa5b2aea,HostRoleCommandEntity.java,update SQL statement,
+apache/ambari,https://github.com/apache/ambari/commit/3411efbc55017c4947ee494faaa05270aaecee4f,WidgetEntity.java,update SQL statement,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/e703997be2266ebc669041a1518f72b6b2fa0249,HotelRepository.java,update SQL statement,
+HubSpot/Singularity,https://github.com/HubSpot/Singularity/commit/a2cf8c5eba9677cef861b0a70c13aa11f3668585,HistoryJDBI.java,update SQL statement,
+HubSpot/Singularity,https://github.com/HubSpot/Singularity/commit/de8c58a66240333b735203ae1040709dfc6a65e4,HistoryJDBI.java,update SQL statement,
+codenvy/codenvy,https://github.com/codenvy/codenvy/commit/3e743bb0730e7c9d54e665824f7547810423f3a4,MemberImpl.java,update SQL statement,
+prestodb/presto,https://github.com/prestodb/presto/commit/6f01e25741503dccf040a987f5dfdc807179341d,SchemaDao.java,update SQL statement,
+keycloak/keycloak,https://github.com/keycloak/keycloak/commit/c2ad9189752307dec9ab6eaf44a4c058e4e5c21f,GroupEntity.java,update SQL statement,
+keycloak/keycloak,https://github.com/keycloak/keycloak/commit/9cc5ca3ce4094f80324a3201c873419e3888ba6c,PersistentUserSessionEntity.java,update SQL statement,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/671de1baed10ae8ffb6635d5d2005e5e6b4997f0,StackRepository.java,update sql statement ,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/704ee04b7581cff886481f479a6b38049434821c,StackRepository.java,update sql statement ,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/2e1ccacee7c189e5f04e0b63a466e5149af0e61e,InstanceMetaData.java,update sql statement ,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/4d6defc44500ac9083d2db7f3448e86bbd143d18,Resource.java,update sql statement ,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/628d36cfa100a8bb7d0212457f27cb3959e66917,Blueprint.java,update sql statement ,
+Teradata/kylo,https://github.com/Teradata/kylo/commit/0f805e62d418b912af3b72ee9446508905f52dbd,FeedHealthRepository.java,update sql statement ,
+ctripcorp/apollo,https://github.com/ctripcorp/apollo/commit/7a1b0d1c9bca94a8daf48030542aa06fc0cbbbd2,AppNamespace.java,update sql statement ,
+intuit/wasabi,https://github.com/intuit/wasabi/commit/35c0ab599003e39cd8fc19c9624df7520b6d0497,ExperimentAccessor.java,update sql statement ,
+rakam-io/rakam,https://github.com/rakam-io/rakam/commit/8c812e05247f0737a8672533433315c614c3d0e6,JDBCReportMetadata.java,update sql statement ,
+graalvm/graal,https://github.com/graalvm/graal/commit/4f459839d10814817599a0209b3c90af7b1ebf1c,SLWritePropertyCacheNode.java,update code,
+graalvm/graal,https://github.com/graalvm/graal/commit/0e16a482da20c0110ce6f220b69c8db3ec6520e1,SLAddNode.java,update code,
+gwtproject/gwt,https://github.com/gwtproject/gwt/commit/ce37703e1039038168af259555ed2a8560d33cd9,CellBrowser.java,update html code,
+gwtproject/gwt,https://github.com/gwtproject/gwt/commit/05091ff95a904b42246f5d9b90b6ae362c1bb5fb,FormPanel.java,update html code,
+graalvm/fastr,https://github.com/graalvm/fastr/commit/97b4f498320f174dfe62599e188066df6b0e2682,Attributes.java,update code,
+jtransc/jtransc,https://github.com/jtransc/jtransc/commit/3ae587ff7e793e53b56c2148ad2c31def41cba2b,JTranscWrapped.java,update code,
+jtransc/jtransc,https://github.com/jtransc/jtransc/commit/d595101d2b076edc0edaea570921ab6c103d344c,Runtime.java,update code,
+jtransc/jtransc,https://github.com/jtransc/jtransc/commit/ecad70d735f229cd6c28f3915e0636160a37da16,Object.java,update code,
+jtransc/jtransc,https://github.com/jtransc/jtransc/commit/95612f9978cc3916c695bbe6826f61bea91bafb8,JTranscConsole.java,update code,
+jtransc/jtransc,https://github.com/jtransc/jtransc/commit/3c9c0215295f3fcc3660fc74e33a8421ec650c89,FastMemory4Float.java,update code,
+jtransc/jtransc,https://github.com/jtransc/jtransc/commit/23e20cb421baf19e5fdf03458169f2a821e8c575,String.java,update code,
+jtransc/jtransc,https://github.com/jtransc/jtransc/commit/36a3ea9bb491e2d486ed48c463ba911eb79af97b,StringBuilder.java,update code,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/7671d28f4810bf0b96467f2a202fe5368b9e6f59,DRLActionExecutor.java,add default value,TRUE
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/2a2b73589a517ba9d9fdecb6227043defd20f9f0,QuartzSchedulerProxyMessageListener.java,add default value,TRUE
+JetBrains/intellij-community,https://github.com/JetBrains/intellij-community/commit/5a719250379e5615be80d6c09c3c936bf48b023a,ActionOrGroup.java,add default value,TRUE
+neo4j/neo4j,https://github.com/neo4j/neo4j/commit/ffdad9afb95c769fa85884e6a4a41dd798e65007,BloomProcedures.java,add default value,"         ""true"""
+apache/cloudstack,https://github.com/apache/cloudstack/commit/e13df96348c60694849f91d0c025cb349aea124e,UserVmResponse.java,add default value,TRUE
+matsim-org/matsim,https://github.com/matsim-org/matsim/commit/64e002bafc4421cefaa8a66c16585105788b29a5,MoneyTimeDistanceTravelDisutilityFactory.java,add default value,TRUE
+apache/camel,https://github.com/apache/camel/commit/00fef5857c0bcb0fc7a02f19f5ba51ef0382133d,RecordStringConverter.java,add default value,TRUE
+FenixEdu/fenixedu-academic,https://github.com/FenixEdu/fenixedu-academic/commit/434845d2e823fe5828bb8732d57e1cbdd99afcb8,RoomSiteViewerDispatchAction.java,add default value,TRUE
+mulesoft/mule,https://github.com/mulesoft/mule/commit/a571f458142ea6cd4e146e03306a1db659bd0643,SoapMessageBuilder.java,add default value,TRUE
+eucalyptus/eucalyptus,https://github.com/eucalyptus/eucalyptus/commit/f17ddd9672ef4280e8a8f182bbe75d41e102a861,DNSControl.java,add default value,TRUE
+apache/ignite,https://github.com/apache/ignite/commit/9273e51cd039049a4aae73f9dcafc02915bc6153,CacheInvokeResult.java,add default value,TRUE
+h2oai/h2o-3,https://github.com/h2oai/h2o-3/commit/ee372ef41bb1c325b2de548dd35cef85ab9fb421,KMeansV3.java,add default value,TRUE
+belaban/JGroups,https://github.com/belaban/JGroups/commit/54e9332ca1c98bf8a231849d300f3893d209ac4d,SSL_KEY_EXCHANGE.java,add default value,TRUE
+magefree/mage,https://github.com/magefree/mage/commit/33b9ec52b05214b134faaa1e0a03069add9c938c,ExpansionInfo.java,add default value,TRUE
+enonic/xp,https://github.com/enonic/xp/commit/e38287da5ff3959c3c3934f665ba6afb055b4db3,ApplicationConfigInvalidator.java,add default value,TRUE
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/d2e370d0380aaa24e642b44beca060c3f7c52360,CustomerImpl.java,add default value,TRUE
+ORCID/ORCID-Source,https://github.com/ORCID/ORCID-Source/commit/0b46b26244c9c8b380e0b583d2ef54758ac8a682,PublicCerifApiServiceDelegatorImpl.java,add default value,TRUE
+apereo/cas,https://github.com/apereo/cas/commit/14e5b38de5c67a07b777a6f25757376d55b67a9a,AuditMongoDbProperties.java,add default value,TRUE
+apache/karaf,https://github.com/apache/karaf/commit/497c313b13af409d4d4477e8f7c0a849a70c0f85,List.java,add default value,TRUE
+openmrs/openmrs-core,https://github.com/openmrs/openmrs-core/commit/2bbe8110719d54238de000243b4a4ac29175ce87,BaseOpenmrsObject.java,add default value,TRUE
+sleuthkit/autopsy,https://github.com/sleuthkit/autopsy/commit/b8f892ab6adacafd43d73c5e3c775667868e49b4,OpenOutputFolderAction.java,add default value,TRUE
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/47fb614bde670f3ebf113334c4b70822c1a33232,DataSourceTransactionManagerAutoConfiguration.java,add default value,TRUE
+EvoSuite/evosuite,https://github.com/EvoSuite/evosuite/commit/eee58eafa4ee9b7a88ed629c54647d89dfaa1bb6,EvoServletState.java,add default value,TRUE
+facebook/buck,https://github.com/facebook/buck/commit/977e1ff3620468133b8ac11c4c6c916ffe7ff94f,AbstractBuildTarget.java,add default value,TRUE
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/eddce78fccbc7e43c53426a7ef28b37ff1964abb,NeighbourPacketManager.java,add default value,TRUE
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/389b5313a1758dd4f23b95332d5750005548d5b0,UserSubstitution.java,add default value,TRUE
+vespa-engine/vespa,https://github.com/vespa-engine/vespa/commit/a6ebf38e3020cf2b63d59b06755b13e601ea5cdf,GenerateSourcesMojo.java,add default value,TRUE
+JikesRVM/JikesRVM,https://github.com/JikesRVM/JikesRVM/commit/5991e7e87020be8f207bf0e8ed5c1481b2173b68,AbstractRegisters.java,add default value,TRUE
+prestodb/presto,https://github.com/prestodb/presto/commit/c3a95cfda27b34cea11bac67cf6b4145880c1c4c,DateTimeFunctions.java,add default value,TRUE
+payara/Payara,https://github.com/payara/Payara/commit/672d3a628dcc01d2fc1cbb416db520340b967798,SetNotificationConfiguration.java,add default value,TRUE
+payara/Payara,https://github.com/payara/Payara/commit/0ffb42d42be2fcfd277c3c3db380e2a032bf4be7,SlackNotifierConfiguration.java,add default value,TRUE
+DSpace/DSpace,https://github.com/DSpace/DSpace/commit/a98fee0b5eaf1a80cecf99f4b12a53a9b6f3c511,DSpaceObject.java,add default value,TRUE
+IQSS/dataverse,https://github.com/IQSS/dataverse/commit/da5aea4a4ebd79618a6671c505ffeb3679064fc3,ControlledVocabularyValue.java,add default value,TRUE
+apache/logging-log4j2,https://github.com/apache/logging-log4j2/commit/b1fa463b55becf49572b6b4c4f030a88dae68640,KeyStoreConfiguration.java,add default value,TRUE
+graalvm/fastr,https://github.com/graalvm/fastr/commit/0229d329e878406d7adc78179db6480106a9bbba,BinaryArithmetic.java,add default value,TRUE
+robolectric/robolectric,https://github.com/robolectric/robolectric/commit/bbd4cbda906cc300474cb320233ee076fc519a9c,ShadowIAppOpsService.java,add default value,TRUE
+eclipse/vert.x,https://github.com/eclipse/vert.x/commit/6780045ed7e3b4beb09622bc4a32cdaa2b0a7e2d,HttpClientOptions.java,add default value,TRUE
+serge-rider/dbeaver,https://github.com/serge-rider/dbeaver/commit/408dc6134747e4b4cb628ef16aaaf897058ee3b2,MySQLTableColumn.java,add default value,TRUE
+SlimeKnights/TinkersConstruct,https://github.com/SlimeKnights/TinkersConstruct/commit/920edde7fd6120e1565d56751b31513abc25ca35,TinkerAE2.java,add default value,TRUE
+zstackio/zstack,https://github.com/zstackio/zstack/commit/2e79372b5fd4b0db2a7ce57a08908e38a632f1a0,APIAddImageMsg.java,add default value,TRUE
+Teradata/kylo,https://github.com/Teradata/kylo/commit/b564a66da96d789205c914d116f85ef97d14a899,DefaultValueStandardizer.java,add default value,TRUE
+mockito/mockito,https://github.com/mockito/mockito/commit/3bfcbe8d6916ed22c91966522a5461e383d28df8,MethodInterceptor.java,add default value,TRUE
+broadinstitute/gatk,https://github.com/broadinstitute/gatk/commit/230db9fd085a568ebec9e98f730eef343f95912f,SpecialArgumentsCollection.java,add default value,TRUE
+SpongePowered/SpongeCommon,https://github.com/SpongePowered/SpongeCommon/commit/088066eed2948d45013c0a4a40e10833ab17836e,MixinSaveHandler.java,add default value,TRUE
+raphw/byte-buddy,https://github.com/raphw/byte-buddy/commit/cabea9d1f05db2106af8e3a58fd647175eaaab20,ByteArrayClassLoader.java,add default value,TRUE
+OpenGamma/Strata,https://github.com/OpenGamma/Strata/commit/ccd72fa979e1c57c6a5bfef4ba4bd0b80ccde6dc,MarketEnvironment.java,add default value,TRUE
+syncany/syncany,https://github.com/syncany/syncany/commit/35c62a15acaaa4d32e21961b180c6957d525fdd1,ActionTO.java,Add default value,TRUE
+SpongePowered/SpongeForge,https://github.com/SpongePowered/SpongeForge/commit/13080d25aa01c5b9ece77046c0fdc377e70cea6c,MixinServerConfigurationManager.java,Add default value,TRUE
+Adobe-Consulting-Services/acs-aem-commons,https://github.com/Adobe-Consulting-Services/acs-aem-commons/commit/8ba19a9878a0c0b2bb4e9e62e69ad87f264c8e32,MarkResponseAsCacheDelivered.java,Add default value,TRUE
+CitizensDev/Citizens2,https://github.com/CitizensDev/Citizens2/commit/847652046ecc871a23f7f73c1f7570079625350b,EventListen.java,Add default value,TRUE
+feroult/yawp,https://github.com/feroult/yawp/commit/6bbdcb94fca8f53601096a80fce03d072eac463d,HookMojo.java,Add default value,TRUE
+OpenMods/OpenBlocks,https://github.com/OpenMods/OpenBlocks/commit/98f41070a6f159d94695c3ea7b8fb8cb29984f88,BlockDrawingTable.java,Add default value,TRUE
+LambdaInnovation/AcademyCraft,https://github.com/LambdaInnovation/AcademyCraft/commit/32631b91758ee08098f1e2d2bed1134119af1215,EntitySurroundArc.java,Add default value,TRUE
+fabric8io/kubernetes-client,https://github.com/fabric8io/kubernetes-client/commit/d92189297702b3a8a4f7e6ae4bf2566977e63f2e,Config.java,Add default value,TRUE
+abixen/abixen-platform,https://github.com/abixen/abixen-platform/commit/720454bbb5a9258f722d97bcb9e0fef3eaef5501,DataSet.java,Add default value,TRUE
+pubnub/java,https://github.com/pubnub/java/commit/af25faa6b9b074a4be41ab3479ab07f4cb410a6e,PresenceService.java,add default value,TRUE
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/74dfb03666b5ba0f4f04d0315fbe344794fffe32,UserModelListener.java,add default value,
+sakaiproject/sakai,https://github.com/sakaiproject/sakai/commit/30b998a688cd6d21dbc2641c3ee340146a62fcd9,ChatMessage.java,add default value,
+apache/cloudstack,https://github.com/apache/cloudstack/commit/bded5e98ec14dec18545c6dffa81b36dee37235a,CreateSecondaryStagingStoreCmd.java,add default value,
+apache/camel,https://github.com/apache/camel/commit/32b42af19908611d7115a7d3c07830e28399a257,OgnlExpression.java,add default value,
+apache/ambari,https://github.com/apache/ambari/commit/686dcc57f6ffaef7f62ee6649438c97f021efcfc,ClusterServiceEntity.java,add default value,
+wordpress-mobile/WordPress-Android,https://github.com/wordpress-mobile/WordPress-Android/commit/6884f6b19836565cab927100fbbb232e5c8e2142,AccountSettingsFragment.java,add default value,
+gerrit-review/gerrit,https://github.com/gerrit-review/gerrit/commit/0265937f446190a0cbf3f165339452168e1cfe26,PatchSet.java,add default value,
+eucalyptus/eucalyptus,https://github.com/eucalyptus/eucalyptus/commit/b67781da03ad31d4cb54e080f68565fd10eece85,NetworkGroups.java,add default value,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/99321b776318a6d368adce8e94d5ef85f338035e,GarbageCollectionMetricSet.java,add default value,
+pentaho/pentaho-kettle,https://github.com/pentaho/pentaho-kettle/commit/810eeaafaaaa7d1c952020637cdf43e5968e294b,HL7MLLPInput.java,add default value,
+h2oai/h2o-3,https://github.com/h2oai/h2o-3/commit/2493428dcb918dbad54b611d43ad47bcb1e3c875,SharedTreeV3.java,add default value,
+graalvm/graal,https://github.com/graalvm/graal/commit/f907a6d816415fdbe34f71860fb9fd4083c808e1,GraphDecoder.java,add default value,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/cf9ae40fb3c7ca048dd9f83dad3a698b4afc19cf,CustomerPaymentImpl.java,add default value,
+apereo/cas,https://github.com/apereo/cas/commit/794f670d6943eabbae287cf8f5ae9712a4c70040,AbstractRegisteredService.java,add default value,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/57a698f388929911aa8891299928d15613a9f411,CassandraDataAutoConfiguration.java,add default value,
+payara/Payara,https://github.com/payara/Payara/commit/92e7b40a5099a4490c325ed2febb5f8d2633e76a,ApplicationDeploymentTime.java,add default value,
+Azure/azure-sdk-for-java,https://github.com/Azure/azure-sdk-for-java/commit/bb4addf70cc502eff8fac7ed0fd93cd256fecd38,ResourceUsage.java,add default value,
+lumifyio/lumify,https://github.com/lumifyio/lumify/commit/c08049e71794197bce375fe08673c525aabe28e3,SqlLongRunningProcess.java,add default value,
+eclipse/che,https://github.com/eclipse/che/commit/4de711114722501fb4ad47f49b041bae2ade3dde,ServerConf2Impl.java,add default value,
+apache/nifi,https://github.com/apache/nifi/commit/56da2b51e16d92df07e25277d01c85ad622015a9,AboutDTO.java,add default value,
+wildfly-swarm/wildfly-swarm,https://github.com/wildfly-swarm/wildfly-swarm/commit/6a92184a54ba47c0c13df6fd98d926743bb00f70,JMXFraction.java,add default value,
+estatio/estatio,https://github.com/estatio/estatio/commit/9e561c4e2f272f004beca02034afbd48f8dbc881,DocumentTemplate.java,add default value,
+jamesagnew/hapi-fhir,https://github.com/jamesagnew/hapi-fhir/commit/3780248a2ff3d7256d787387ae0a978a072d3275,ResourceLink.java,Add default value,
+ctripcorp/apollo,https://github.com/ctripcorp/apollo/commit/bc8ec05deba4a1dd8cf68bff52c8adbba936906e,NamespaceController.java,Add default value,
+apiman/apiman,https://github.com/apiman/apiman/commit/34aca334d8f6f6a9fff91933660a9b8d6d735678,RoleMembershipBean.java,Add default value,
+WPIRoboticsProjects/GRIP,https://github.com/WPIRoboticsProjects/GRIP/commit/344b45333eb87afda8ba50ac0d0d7cd08c95b68d,BlobsReport.java,Add default value,
+google/nomulus,https://github.com/google/nomulus/commit/ffcbdbf37b25ee90adaeb6a9b79650b6a5af3a15,DeleteProberDataAction.java,add default value,
+support-project/knowledge,https://github.com/support-project/knowledge/commit/7871088ffdbd9d0108b50936c0eba61550ef48a8,WebhookControl.java,add default value,
+apache/felix,https://github.com/apache/felix/commit/9684366814cb92b0613de5a69667e5ef134d1b78,SimpleDSComponent.java,"delete  default value, ",TRUE
+gerrit-review/gerrit,https://github.com/gerrit-review/gerrit/commit/fecc4a14c4be01e636dfddac9e27cc37f3920891,InitAdminUser.java,"delete  default value, ",TRUE
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/107eeb40ec24449e064344208d8beeb10cd76be9,SharedS3DataStoreService.java,"delete  default value, ",TRUE
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/868c5deb8007ac811d0dd3c0fe049d154741e1da,ProductAttributeImpl.java,"delete  default value, ",TRUE
+ORCID/ORCID-Source,https://github.com/ORCID/ORCID-Source/commit/0505e4b09e2b9ca2d37598b9ebdea4d18b5288fb,OrcidApiServiceDelegatorImpl.java,"delete  default value, ",TRUE
+apereo/cas,https://github.com/apereo/cas/commit/10e4950692229822dfca8f60b0c8065fbedc7216,JpaCasEventRepository.java,"delete default value, ",TRUE
+JetBrains/intellij-plugins,https://github.com/JetBrains/intellij-plugins/commit/6ebbee04d4eea13a7cd88caf741e59505df82589,DartPackagesLibraryProperties.java,"delete default value, ",TRUE
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/617c97322d8d0c6d4e8081bd5d4a4f8e2d8eb565,EnvironmentEndpoint.java,"delete default value, ",TRUE
+bazelbuild/bazel,https://github.com/bazelbuild/bazel/commit/b5e112bbf4d9795dc714f1dfec72379c3f9fe1ba,SkylarkAttr.java,"delete  default value, ",TRUE
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/5c396e3cf3de3c4b98cfd66000305f5d345b3140,FlowRuleManager.java,"delete default  value, ",TRUE
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/8288b032eef6a4f82529c06599ec97ed3267f933,StackBase.java,delete default value,TRUE
+eclipse/jgit,https://github.com/eclipse/jgit/commit/c02c9e80421f2da7391dac658030f9675d665c3a,Daemon.java,delete default  value,TRUE
+google/error-prone,https://github.com/google/error-prone/commit/56b53e9d2c81c33fe5bd7bf2a526305212b7d548,ChainingConstructorIgnoresParameter.java,delete default value,TRUE
+OpenSkywalking/skywalking,https://github.com/OpenSkywalking/skywalking/commit/061de44ba72093032d5e28f42a43fde2360f3656,InstMethodsInterWithOverrideArgs.java,delete default value,TRUE
+consulo/consulo,https://github.com/consulo/consulo/commit/46650f15ce6409e365d41da83d5142f287c441da,EarlyAccessProgramManager.java,"delete  default value,",
+OpenNMS/opennms,https://github.com/OpenNMS/opennms/commit/3ca3f847d6838c39bd85bf4af7993c3222547cd6,OnmsAlarm.java,"delete  default value, ",
+apache/maven-plugins,https://github.com/apache/maven-plugins/commit/f6a9b12d6a3f2c66e02897edbaa55c2730dd7cfb,AbstractWarMojo.java,"delete  default value, ",
+JetBrains/android,https://github.com/JetBrains/android/commit/82056986465c5deca913eb7e36011f1d2330359b,KeystoreUtils.java,"delete  default value, ",
+apache/camel,https://github.com/apache/camel/commit/b6436701c711957c4d0775195c9d7bb718381854,RestBindingMode.java,"delete  default value, ",
+javaee/glassfish,https://github.com/javaee/glassfish/commit/d728e36d8fa99a28964098122aade2c00e22ce57,ListJdbcConnectionPools.java,"delete  default value, ",
+apache/ambari,https://github.com/apache/ambari/commit/14cbdabe7232bd2d020824a1bbed1f6f905a458b,AlertGroupEntity.java,"delete  default value, ",
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/36c21f757fd87c83c41174fbc8bf0292c60fd329,SearchFacetImpl.java,"delete default  value, ",
+druid-io/druid,https://github.com/druid-io/druid/commit/fd55c894ce000a78bcbb0688a9609bf53e7306b8,TopNTypeInterfaceBenchmark.java,delete default value,
+apache/activemq-artemis,https://github.com/apache/activemq-artemis/commit/e065d25b6fb4cdfa7f5b72afd52d6f4771b50634,ActiveMQJMSClientBundle.java,delete default value,
+decebals/pippo,https://github.com/decebals/pippo/commit/57201af72946f7d07175f63332288f13abdb38f4,SnakeYamlInitializer.java,delete default value,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/118d3e02b6cef76b45cc9055a55aaffc5a90a46d,InitBundleCommand.java,static text,
+consulo/consulo,https://github.com/consulo/consulo/commit/1a142e04114aa716fe8b2d9960ec427b52e21c8f,LegacyModuleImportProvider.java,static text,
+JetBrains/kotlin,https://github.com/JetBrains/kotlin/commit/d204fa91cc81721012e13456909e3a690cd1fd43,K2JVMCompilerArguments.java,static text,
+nuxeo/nuxeo,https://github.com/nuxeo/nuxeo/commit/39110fe90f35a27712afb3ee161dd30198ac1c68,RemoveItemFromListProperty.java,static text,
+xwiki/xwiki-platform,https://github.com/xwiki/xwiki-platform/commit/1421913f0d62a53d66ffdfd197ad6d8e7746985c,ExtendedTocMacroParameters.java,static text,
+neo4j/neo4j,https://github.com/neo4j/neo4j/commit/5ff39dfb3239df83037c210401d084206f29ebfe,GraphDatabaseSettings.java,static text,
+neo4j/neo4j,https://github.com/neo4j/neo4j/commit/659f3c32078b82181f8ae0c5a361c503c0122dac,CausalClusteringSettings.java,static text,
+OpenNMS/opennms,https://github.com/OpenNMS/opennms/commit/f6d736e3328263f0e7c552a0ec164ad5d3e6368e,PingSweepCommand.java,static text,
+gradle/gradle,https://github.com/gradle/gradle/commit/03b631a6fe0292118c16225109df68f0d136d969,Clock.java,static text,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/484e16eaad2ada068107868a58b56434b3d874c7,ScriptTransform.java,static text,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/71b9ab1ad974731701471a401bd27237a90c1827,JmsSource.java,static text,
+apache/cloudstack,https://github.com/apache/cloudstack/commit/897c73867d85fdc4b41c2d303ed422e34d2a9eb9,UpdatePortForwardingRuleCmd.java,static text,
+apache/camel,https://github.com/apache/camel/commit/bb8316f68ae6b2b0e45a4ff3f5c7c3fd18c903ee,HttpEndpoint.java,static text,
+apache/camel,https://github.com/apache/camel/commit/cded03c5a547a59a760d191959476dd3674f5429,SjmsEndpoint.java,static text,
+apache/felix,https://github.com/apache/felix/commit/40ecace1b249d2a39a4cf90dd12727a3e7ec2d08,DictionaryConfiguration.java,static text,
+apache/cxf,https://github.com/apache/cxf/commit/057b2a6d5d85285446ff762bd3451a0e3e945d7a,Sample.java,static text,
+wildfly/wildfly,https://github.com/wildfly/wildfly/commit/282aff3c8e0ef6e77d020b83f00514c9530672ab,AppClientLogger.java,static text,
+h2oai/h2o-3,https://github.com/h2oai/h2o-3/commit/223408bd3b89a548987c29cf94f1b8d72a811821,NaiveBayesV3.java,static text,
+h2oai/h2o-3,https://github.com/h2oai/h2o-3/commit/9bff8b01cc198a40fde6e60c9f3a3c093caf8dad,ModelParametersSchemaV3.java,static text,
+broadgsa/gatk-protected,https://github.com/broadgsa/gatk-protected/commit/b42dc1624b3b518dc404870df6feb8347c9e74f6,PhaseByTransmission.java,static text,
+SeleniumHQ/selenium,https://github.com/SeleniumHQ/selenium/commit/f10408a58e70a5afc0bf386fde1a13d2e42ab828,GridConfiguration.java,static text,
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/cfa9c19b273d250ae488f8c6c8cd971a28e478ea,DocumentNodeStoreService.java,static text,
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/0bcfe9f7947bf85a03bf7ae570590d4cf880e992,OakSolrConfigurationProviderService.java,static text,
+enonic/xp,https://github.com/enonic/xp/commit/d98c9b278c192239d74feadebb945d1cb7d669a1,DumpCommand.java,static text,
+codefollower/Cassandra-Research,https://github.com/codefollower/Cassandra-Research/commit/cd5d03d2b78c634109e7e39b1986965f12630699,RebuildIndex.java,static text,
+apereo/cas,https://github.com/apereo/cas/commit/928a897c42b4f4ee48a350d2e1b24f254136a09e,AddPropertiesToConfigurationCommand.java,static text,
+fabric8io/fabric8,https://github.com/fabric8io/fabric8/commit/d5fd078dab980c2921b8dd13131d9d6506b954d1,CamelGetOverviewCommand.java,static text,
+fabric8io/fabric8,https://github.com/fabric8io/fabric8/commit/9b8259ced811fc3047c1fd229e3a4d61e5be7ee0,CamelAddEndpointRouteBuilderCommand.java,static text,
+eclipse/jetty.project,https://github.com/eclipse/jetty.project/commit/f47b6811b47a6616bcde58a8d9dffa83723c4f14,QueuedThreadPool.java,static text,
+apache/karaf,https://github.com/apache/karaf/commit/5eb7c0d690a89c00f96769fab5a88291c2df6780,StopFeaturesCommand.java,static text,
+stanfordnlp/CoreNLP,https://github.com/stanfordnlp/CoreNLP/commit/2317002f6546051f0a7287e15a08c847630aa63b,KBPAnnotator.java,static text,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/db76112700c045db4ba516d1f3a47ad7cbfeae0e,Message.java,static text,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/68fe8a58b8e1557569c2c31d7fd761aa48597915,AbstractMvcEndpoint.java,static text,
+HubSpot/Singularity,https://github.com/HubSpot/Singularity/commit/466f757ac8a6b66ad37310fc53bbb63c05db78e3,UserResource.java,static text,
+Graylog2/graylog2-server,https://github.com/Graylog2/graylog2-server/commit/a9ab2561480b6fa88b5acb48d6800b9c401a6c75,Radio.java,static text,
+bazelbuild/bazel,https://github.com/bazelbuild/bazel/commit/d95efa3138b888663ba677aea38c5640393f0f68,SkylarkAttr.java,static text,
+bazelbuild/bazel,https://github.com/bazelbuild/bazel/commit/8c1b6c62d89e4954336ae936c33a6949a605967d,CleanCommand.java,static text,
+facebook/buck,https://github.com/facebook/buck/commit/e1d5b08396f55a5e380f7212cb0d3ad0350d4500,TargetsCommand.java,static text,
+infinispan/infinispan,https://github.com/infinispan/infinispan/commit/5ab367b844c1f699c599371d7570649c47d576e2,Log.java,static text,
+hibernate/hibernate-orm,https://github.com/hibernate/hibernate-orm/commit/6024520e08e14c76a70f81b078e14a864f98e7c9,ProxoolMessageLogger.java,static text,
+vespa-engine/vespa,https://github.com/vespa-engine/vespa/commit/d4fb7ea525b50fbdff57a13c3450c9d621420ce4,Maintainer.java,static text,
+codenvy/codenvy,https://github.com/codenvy/codenvy/commit/0cb28102b25492e288fefc178487636c9a97dbf4,BackupConfig.java,static text,
+codenvy/codenvy,https://github.com/codenvy/codenvy/commit/f1b317d197e1c99657fcbc6d73c8b9b6b0a46eab,SubscriptionCommand.java,static text,
+apache/beam,https://github.com/apache/beam/commit/76e6cbd01bcbb45aea27df97665834c51e91955b,DataflowPipelineOptions.java,static text,
+apache/beam,https://github.com/apache/beam/commit/d625f34681f978c858593ed97d0fc2f641c03418,ApplicationNameOptions.java,static text,
+payara/Payara,https://github.com/payara/Payara/commit/520d1c87d584c4af954fae33b1d92eaf27af3400,LogFacade.java,static text,
+google/closure-compiler,https://github.com/google/closure-compiler/commit/c46477ee37dc8c56cc61d66279da1cde20975caa,CommandLineRunner.java,static text,
+LibrePlan/libreplan,https://github.com/LibrePlan/libreplan/commit/fc381520ba703f462e56e2051369c8b30cf71f00,DirectAdvanceAssignment.java,static text,
+ballerinalang/ballerina,https://github.com/ballerinalang/ballerina/commit/0c1c74ef542a345dbe2ff69a6e607845e67c9759,SetStringWithNamespaces.java,static text,
+teiid/teiid,https://github.com/teiid/teiid/commit/138f04dca535796123a4e391929493358ea07108,SalesForceMetadataProcessor.java,static text,
+spring-projects/spring-integration,https://github.com/spring-projects/spring-integration/commit/d414383eac52a55d8cbb2efc2319c234eff01ce3,MessageChannelMetrics.java,static text,
+weld/core,https://github.com/weld/core/commit/185caef7880e63ed745e465e3ad1472e2470c4a1,ValidatorLogger.java,static text,
+apache/poi,https://github.com/apache/poi/commit/93f1f4b02760047257357b85300eb45e2917856c,Cell.java,static text,
+geotools/geotools,https://github.com/geotools/geotools/commit/e21c9b4a79177ef5a3784b794f04be8943ef5bc1,IntersectionFeatureCollection.java,static text,
+streamsets/datacollector,https://github.com/streamsets/datacollector/commit/4c1edf77ebb1745c262f074dcea3155e71525017,PipelineContentGenerator.java,static text,
+druid-io/druid,https://github.com/druid-io/druid/commit/31c80024b6c80e228d7841c3b37681898cc189f7,CliRouter.java,static text,
+flowable/flowable-engine,https://github.com/flowable/flowable-engine/commit/2fd76b44572ea58787e055deffd83288414dd2ef,JobExecutorMBean.java,static text,
+hortonworks/cloudbreak,https://github.com/hortonworks/cloudbreak/commit/21a5cb382d9bb6897c0b544251c7f98bb163df16,ClusterRequest.java,static text,
+liquibase/liquibase,https://github.com/liquibase/liquibase/commit/9070dec84d1944b8730f01ef9473ad148ff721b6,ExecuteShellCommandChange.java,static text,
+perfectsense/brightspot-cms,https://github.com/perfectsense/brightspot-cms/commit/1ae0b5126ced6bf8b53e56ebc739da07cf08be24,ToolRole.java,static text,
+SmartBear/soapui,https://github.com/SmartBear/soapui/commit/98de135f9af4117202c199957eb122f4ed382f0f,WsdlSettings.java,static text,
+hibernate/hibernate-search,https://github.com/hibernate/hibernate-search/commit/9e2b8dc80b28cd30ea8d939b557be6a546043c7e,Log.java,static text,
+forge/core,https://github.com/forge/core/commit/96b46d94eacc268b8a24de99c4bf16299fec59c6,NewFieldWizard.java,static text,
+spring-projects/spring-roo,https://github.com/spring-projects/spring-roo/commit/6751737c2804e04d865e995d5724d7004c13d2b0,I18nCommands.java,static text,
+resteasy/Resteasy,https://github.com/resteasy/Resteasy/commit/e9374dfbb58abcb93ca546f7b8a94ab966c062c9,Messages.java,static text,
+SlimeKnights/TinkersConstruct,https://github.com/SlimeKnights/TinkersConstruct/commit/9a0b6b3b16fbaeb1962839886e10cc33ea82b141,TinkerHarvestTools.java,static text,
+linkedin/pinot,https://github.com/linkedin/pinot/commit/17bb73979a51f9c9a7bc2145a78c2a6d42a13fd0,PinotTableMetadataConfigs.java,static text,
+linkedin/pinot,https://github.com/linkedin/pinot/commit/9deb7fd3bf607f68b9a47d81e808b0b3d9c32b99,PinotSegmentRestletResource.java,static text,
+SonarSource/sonar-java,https://github.com/SonarSource/sonar-java/commit/b11ccacef3096158c66714cd8172fef227dab057,BadLocalVariableName_S00117_Check.java,static text,
+apache/activemq-artemis,https://github.com/apache/activemq-artemis/commit/4edb750165a8d8c27e4126e3e5b0ed0a321c40f7,Browse.java,static text,
+apache/nifi,https://github.com/apache/nifi/commit/c07850aec3a9017ffd35d571fcb4324396de09d9,GetJMSTopic.java,static text,
+apache/nifi,https://github.com/apache/nifi/commit/446cd4470251e6a400fde14eca69db8b10969d40,ControllerDTO.java,static text,
+broadinstitute/gatk,https://github.com/broadinstitute/gatk/commit/116167f4deb0180debdf7884b568444ae030e0ad,AnnotateVcfWithBamDepth.java,static text,
+broadinstitute/gatk,https://github.com/broadinstitute/gatk/commit/340521960cc8fa454b5d2938a1362aacb4657a93,ApplyBQSR.java,static text,
+SpongePowered/SpongeCommon,https://github.com/SpongePowered/SpongeCommon/commit/e1ac12e1a668fe0b16f61225a5d63c18314fb40c,EntityCollisionCategory.java,static text,
+jbehave/jbehave-core,https://github.com/jbehave/jbehave-core/commit/e504a962b321478c3dceec5ce5fc8d62dd29d46e,JsonSteps.java,static text,
+raphw/byte-buddy,https://github.com/raphw/byte-buddy/commit/817e2ae7b3ccabf5d4ab8fea7c5930448e2ae298,ClassReloadingStrategy.java,static text,
+hawkular/hawkular-metrics,https://github.com/hawkular/hawkular-metrics/commit/4f48033db4df7f5073d4fbf7516c2f88defe8de6,Gauge.java,static text,
+wso2/siddhi,https://github.com/wso2/siddhi/commit/921d11f6c2142da3f14037061a4d86af644da461,MaxForeverAttributeAggregator.java,static text,
+AuthMe/AuthMeReloaded,https://github.com/AuthMe/AuthMeReloaded/commit/9466577993ccea0d74d5f4a72947aa8ba4988193,RegistrationSettings.java,static text,
+RUB-NDS/TLS-Attacker,https://github.com/RUB-NDS/TLS-Attacker/commit/904212d2d2df99b4ffa90b13b1ba4b8dd13e9e0a,EllipticCurveDelegate.java,static text,
+google/error-prone,https://github.com/google/error-prone/commit/3ea2b9456511c78eae0f0e1c38a0df9e7aa1dfe9,AssistedParameters.java,static text,
+vmware/photon-controller,https://github.com/vmware/photon-controller/commit/08638abe58223f2acab7c6fc3f30442a8f015330,LocalitySpec.java,static text,
+openpnp/openpnp,https://github.com/openpnp/openpnp/commit/658d65a0a01e6dbb32b513c7f7124ab1f5bb3171,FilterRects.java,static text,
+jcabi/jcabi-github,https://github.com/jcabi/jcabi-github/commit/99b54716cbcf9bddbcea683601c9dc27dbac42f6,RtCommits.java,static text,
+GoogleCloudPlatform/DataflowJavaSDK,https://github.com/GoogleCloudPlatform/DataflowJavaSDK/commit/bafe563b166c70f995b4b30692dcfe0e96610e41,DatastoreWordCount.java,static text,
+googleads/aw-reporting,https://github.com/googleads/aw-reporting/commit/71b5f9d5ac61f230f11c91b18de72487a4d3aa07,ReportDisplayKeyword.java,static text,
+torakiki/sejda,https://github.com/torakiki/sejda/commit/72e0411d7517e02bea41fbfbf8459964541eacd7,MultiplePdfSourceTaskCliArguments.java,static text,
+apache/incubator-hivemall,https://github.com/apache/incubator-hivemall/commit/b7d5f13430ec2b03c9156be4f80394cda597fb38,ArrayConcatUDF.java,static text,
+radargun/radargun,https://github.com/radargun/radargun/commit/f7b90173930a4c9f89f53754cde2dca53458663e,AbstractMasterStage.java,static text,
+ContainerSolutions/minimesos,https://github.com/ContainerSolutions/minimesos/commit/d9178043ac8ab8708c642a069301a6924357a017,CommandUp.java,static text,
+gwtbootstrap3/gwtbootstrap3,https://github.com/gwtbootstrap3/gwtbootstrap3/commit/3d21c2064e8c62c070a6b3ac915c76cae8d817df,ValidationMessages.java,static text,
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/7097392e052b37fdc12809ef0fdb87cfb896242e,InitBundleMojo.java,"""configs""  BundleSupportConstants.DEFAULT_CONFIGS_DIR_NAME",
+apereo/cas,https://github.com/apereo/cas/commit/4a2fee6f106fb7f9c20551653676186b852fcd47,V3ProxyValidateController.java,"""/validate""  CasProtocolConstants.ENDPOINT_VALIDATE",
+Graylog2/graylog2-server,https://github.com/Graylog2/graylog2-server/commit/27d32b845530d1833dfc6f8d350bb148306809c0,KeywordSearchResource.java,"""text/csv""  AdditionalMediaType.TEXT_CSV",
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/9f87e51954a13ccf6aae51d1d7c05f2e54e280c4,IGMP.java,"""squid:S1148""  SONAR_PRINT_STACK_TRACE",
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/d6a43a8dba71afa1cbd3ec25b9e9c1cadcced504,EnumsController.java,"""application/json; charset=UTF-8""  MediaType.APPLICATION_JSON_UTF8_VALUE",
+keycloak/keycloak,https://github.com/keycloak/keycloak/commit/6201257f767b69f6cd65c1dea8d8a6959683a7e8,JsResource.java,"""text/javascript""  MediaType.TEXT_PLAIN_JAVASCRIPT",
+LibrePlan/libreplan,https://github.com/LibrePlan/libreplan/commit/0f25b227fee1ac83c94a1645f3772d7d10c3b3f2,ConfigurationTypeOfWorkHoursBootstrap.java,"""singleton"" BeanDefinition.SCOPE_SINGLETON",
+apache/logging-log4j2,https://github.com/apache/logging-log4j2/commit/cdc19e40eb957ddfe7b36856eb2109386fddbcdc,CountingNoOpAppender.java,"""Core""   Core.CATEGORY_NAME",
+druid-io/druid,https://github.com/druid-io/druid/commit/a0f9f9877e380c5a9044b0a11dfac41fae3337b4,WorkerResource.java,"""application/json""  MediaType.APPLICATION_JSON",
+kaaproject/kaa,https://github.com/kaaproject/kaa/commit/9bd4038716bfcac2cce9c484ab19bf19eec3be6d,EventClassFamilyVersionState.java,"""ecf_id""  ECF_ID",
+apache/struts,https://github.com/apache/struts/commit/f585d7920ebdd2ce5b7164b5425d4567dddeddcb,AbstractActionNameBuilder.java,"""struts.convention.action.suffix""  ConventionConstants.CONVENTION_ACTION_SUFFIX",
+dkpro/dkpro-core,https://github.com/dkpro/dkpro-core/commit/be43c8183616e29797974ba862ef3fb4ab8fa91f,OpenNlpNamedEntityRecognizerTrainer.java,"""MAXENT""   GISTrainer.MAXENT_VALUE",
+aidancbrady/Mekanism,https://github.com/aidancbrady/Mekanism/commit/049c78088850eb5bb8415c652923d171b97013d9,IAdvancedBoundingBlock.java,"""redstoneflux""  MekanismHooks.REDSTONEFLUX_MOD_ID",
+bisq-network/exchange,https://github.com/bisq-network/exchange/commit/925f59a9ea91b26fde6cd8bb9ef75b17fb8543bc,ClosedTradableManager.java,"""storage.dir""  Storage.DIR_KEY",
+broadinstitute/gatk,https://github.com/broadinstitute/gatk/commit/18a8637e4240dd2c631d25659e0eb646513cfc3f,ApplyBQSRSpark.java,"""bqsr""   StandardArgumentDefinitions.BQSR_TABLE_SHORT_NAME",
+ForgeEssentials/ForgeEssentials,https://github.com/ForgeEssentials/ForgeEssentials/commit/e641c959ea0f3b6e00e7ecb8ad30399a3ef55deb,QueryPermissionsHandler.java,"""set_permission""  RemoteMessageID.SET_PERMISSION",
+wso2-attic/product-emm,https://github.com/wso2-attic/product-emm/commit/c90b4a6dee078f4b8221b37ec5fb81f2e0e9af20,MobileDevice.java,"""application/json""  MediaType.APPLICATION_JSON",
+broadinstitute/picard,https://github.com/broadinstitute/picard/commit/1440ca66baf7f8d6b46eb2a54f7a881f1f74c7b9,CollectRawWgsMetrics.java," ""MQ""  MINIMUM_MAPPING_QUALITY_SHORT_NAME",
+jersey/jersey,https://github.com/jersey/jersey/commit/96aea3defdfa67894ded038dc5753eba54a7d54e,Bookstore.java,"(""text/html;qs=5""  (MediaType.TEXT_HTML",
+RS485/LogisticsPipes,https://github.com/RS485/LogisticsPipes/commit/24d814c32be7865a48f0866f068eacfb4a1ff21b,LogisticsSolidTileEntity.java,"""OpenComputers@1.3"")   LPConstants.openComputersModID",
+exteso/alf.io,https://github.com/exteso/alf.io/commit/23aef637d27627785fbf342a0c52bb4da625356e,MockLocationManager.java,"""dev""  Initializer.PROFILE_DEV",
+Railcraft/Railcraft,https://github.com/Railcraft/Railcraft/commit/b592b9b9d6c62fbe8f8f769f7f6f7f9ee171ae0d,ModuleForestry.java,"""Forestry""  ForestryPlugin.FORESTRY_ID)",
+intuit/wasabi,https://github.com/intuit/wasabi/commit/bd3e468eb1425639f5d5a2e1db4519e4f2b4853a,AuditLogImpl.java,"""auditlog.threadpoolsize.max""  AuditLogAnnotations.AUDITLOG_THREADPOOLSIZE_CORE",
+hs-web/hsweb-framework,https://github.com/hs-web/hsweb-framework/commit/d2eba560109be42e24f6ba5f2ef6342abb33985a,GenericEntityUpdateController.java,"""update"" Permission.ACTION_UPDATE",
+lindenb/jvarkit,https://github.com/lindenb/jvarkit/commit/fc77d9c9088e4bc4c0033948eafb0d8e592f13fe,PubmedGender.java,"""Output file. Optional . Default: stdout"" OPT_OUPUT_FILE_OR_STDOUT",
+ctripcorp/x-pipe,https://github.com/ctripcorp/x-pipe/commit/3f0fd057721831922d7d87d7ae2d0d845e513bf5,SentinelController.java,"""console""  AbstractConsoleController.CONSOLE_PREFIX",
+eclipse/hono,https://github.com/eclipse/hono/commit/94df7220d17b965a628054cdd53b35792d45ba75,ForwardingDownstreamAdapter.java,"""downstream""  RegistrationConstants.REGISTRATION_ENDPOINT)",
+ltsopensource/light-task-scheduler,https://github.com/ltsopensource/light-task-scheduler/commit/6acba57025782fe4cd8fa00f39c5fe1b391340b4,FailStoreFactory.java," ""job.fail.store""  SKey.FAIL_STORE",
+liferay/liferay-portal,https://github.com/liferay/liferay-portal/commit/37bb0262911b2faf18181283fb82a0bfb2c5f32b,JournalServiceConfiguration.java,change value,"""false"" ""true"""
+JetBrains/kotlin,https://github.com/JetBrains/kotlin/commit/fd0578b564bd383814392f0471df66a2c25aca1d,MetadataMojo.java,change value,true false
+apache/maven-plugins,https://github.com/apache/maven-plugins/commit/883b445ca881b150438910bfad09d1a60186199a,PmdReport.java,change value,"""false"" ""true"""
+aosp-mirror/platform_frameworks_support,https://github.com/aosp-mirror/platform_frameworks_support/commit/d38b36c6370fe2aa448b7b824e8fb399fb3f0b97,AppCompatDelegateImplBase.java,change value,
+apache/ambari,https://github.com/apache/ambari/commit/77ea2eba044f7ca9761e6e77799751d1b3a9f263,InstallPackagesCheck.java,change value,
+hazelcast/hazelcast,https://github.com/hazelcast/hazelcast/commit/e00ddd96dd50d4df19534e3756b211e815e085f2,CacheCodecTemplate.java,change value,true false
+graalvm/graal,https://github.com/graalvm/graal/commit/8c64575c7a46649fa4d25dc2a7a80e105ba4ec02,SignExtendNode.java,change value,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/c8c9fe56f29552ba9404c469703dc6b2abaaf7d6,SystemPropertyImpl.java,change value,
+ORCID/ORCID-Source,https://github.com/ORCID/ORCID-Source/commit/c2451ac2af29c4c3a61ecb71ad2516c08d0bb8b4,MemberV2ApiServiceDelegatorImpl.java,change value,
+fabric8io/fabric8,https://github.com/fabric8io/fabric8/commit/d5ca653a0b5eeef182e1da0f0c1ba44bb9583dd8,RestRegistryListCommand.java,change value,TRUE
+sleuthkit/autopsy,https://github.com/sleuthkit/autopsy/commit/ac1b6a8d8c7bac16e4a08e6a2eb2c9d0cd4deec2,InterestingItemDefsOptionsPanelController.java,change value,
+spring-projects/spring-boot,https://github.com/spring-projects/spring-boot/commit/78845fe63a75b01f1e4a7166a356834c0884f8d5,AopAutoConfiguration.java,change value,TRUE
+Graylog2/graylog2-server,https://github.com/Graylog2/graylog2-server/commit/882c0971c563da87ea7bd05bf1fc7de89e4de9cd,KeywordSearchResource.java,change value,
+bazelbuild/bazel,https://github.com/bazelbuild/bazel/commit/784bb52613feb484221c3aa6756de45012163088,LoadingOptions.java,change value,"""false""  ""true"""
+opennetworkinglab/onos,https://github.com/opennetworkinglab/onos/commit/1ffa46b5b351a7bbcf9c2b3bb979c130d3125e29,DistributedLeadershipStore.java,change value,true false
+prestodb/presto,https://github.com/prestodb/presto/commit/42a2522e3f7019b701713ca70cee71be7d8e128c,ColorFunctions.java,change value,
+b3log/symphony,https://github.com/b3log/symphony/commit/0513e37403bbb3520c591019035d813dcc117afa,ArticleProcessor.java,change value,
+dkpro/dkpro-core,https://github.com/dkpro/dkpro-core/commit/9c99c80923f5b007a321f7b4fcdfb4e1f857d284,Web1TFrequencyCountResource.java,change value,true false
+jeremylong/DependencyCheck,https://github.com/jeremylong/DependencyCheck/commit/235df3e482585803a35ec0408bf2011a297a6475,CheckMojo.java,change value,true false
+RIPE-NCC/whois,https://github.com/RIPE-NCC/whois/commit/6cf8f16eec118325ac43c6b8bd686e709f34a4f9,MultipleUpdateHandler.java,change value,
+tananaev/traccar,https://github.com/tananaev/traccar/commit/7575edbee87f9fbe4770c988b469f5915d85bb51,DeviceResource.java,change value,
+wso2-attic/product-emm,https://github.com/wso2-attic/product-emm/commit/a31767d1148ca13f0707f51d4336a549e8a8b9e9,DeviceManagementRepository.java,change value,true false
+McJty/RFTools,https://github.com/McJty/RFTools/commit/d987a89b21221c5b49267a31ed5441adb17a8873,SmartWrenchItem.java,change value,
+aosp-mirror/platform_frameworks_base,https://github.com/aosp-mirror/platform_frameworks_base/commit/4eb01a20c40544f0ecc12f098743fd49dd588da4,NavGesture.java,Fix NavGesture version ,
+consulo/consulo,https://github.com/consulo/consulo/commit/3b3d343e9ed4436f666a3103d1d255b1a90c964d,SdkOrderEntry.java,update version number,
+JetBrains/MPS,https://github.com/JetBrains/MPS/commit/2f15f85f7b74dc89c3fba65a51f001671d2047a1,ModelFactory.java,update version number,
+apache/cloudstack,https://github.com/apache/cloudstack/commit/3e22fbe457152934387847ccbc8dc46fbe915a1b,QuotaEmailTemplateUpdateCmd.java,update version number,
+apache/camel,https://github.com/apache/camel/commit/40bada551084e76c57cfcffb456bd86324bc8678,JBPMEndpoint.java,update version number,
+apache/felix,https://github.com/apache/felix/commit/fa0e6c776765d2a56eeb3cccade14e9614cf78bd,package-info.java,update version number,
+apache/jackrabbit-oak,https://github.com/apache/jackrabbit-oak/commit/9f655d86c48f82109bc3500df80fe128f3627de7,package-info.java,update version number,
+streamsets/datacollector,https://github.com/streamsets/datacollector/commit/b5370b32154e14618da82e7c935f35a8a5bb32c3,FieldTypeConverterDProcessor.java,update version number,
+apache/lucene-solr,https://github.com/apache/lucene-solr/commit/0a54365ffadbf25872bdb4b89ceba15ed195457d,TermSecondPassGroupingCollector.java,"(""unchecked"") {""unchecked"", ""rawtypes""}",
+geogebra/geogebra,https://github.com/geogebra/geogebra/commit/4c4c0dd620ecd3467495118d8871777dbf4e9617,GuiResourcesSimple.java,file name error,
+mulesoft/mule,https://github.com/mulesoft/mule/commit/7de6f28db2687c2bd036a2944a02104535b526a7,HttpRequestOperations.java,SelectMetadataResolver.class output = SelectMetadataResolver.class,
+strapdata/elassandra,https://github.com/strapdata/elassandra/commit/9a29705c49b4090f6bed3ef5156a7d1fede4fc1b,KeepWordFilterFactory.java,"""deprecated""  ""deprecation""",
+typetools/checker-framework,https://github.com/typetools/checker-framework/commit/64435bc339fa8e6d3b8738f25174864bc3c56832,ReadAction.java,"""untainted"" ""tainting""",
+enonic/xp,https://github.com/enonic/xp/commit/16f148438ebd3486e8e061907aaae8dd7354f2f5,GetByApplicationsParams.java,Module/App class refactoring - Rest services ,
+BroadleafCommerce/BroadleafCommerce,https://github.com/BroadleafCommerce/BroadleafCommerce/commit/312b2ab3e06db6dd36d6a3a6970be83b10bddf10,EnableBroadleafServletAutoConfiguration.java,update file path name,
+spring-projects/spring-framework,https://github.com/spring-projects/spring-framework/commit/7ff9f0a8e96eb948aa3539bbfcc41110b12d5d48,HibernateTemplate.java,"""deprecation""  {""rawtypes"", ""deprecation""}",
+amirzaidi/Launcher3,https://github.com/amirzaidi/Launcher3/commit/7927b032875d3233df7a888471aac2c139258eb4,IconShapeOverride.java,"""deprecated""  ""deprecation""",
+sleuthkit/autopsy,https://github.com/sleuthkit/autopsy/commit/31228ffa600853bc8378dfd5fc0bf7c20dd7063e,ExternalViewerOptionsPanelController.java,update file path name,
+netty/netty,https://github.com/netty/netty/commit/cf07f984b16d95719a9ece8c39ed6c11d8c57829,ChannelInboundHandler.java,"""deprecated""  ""deprecation""",
+cuba-platform/cuba,https://github.com/cuba-platform/cuba/commit/1beed3f95c41fb4f9c69e7da17cceb9e63360786,Server.java,LOGIN_FIELD_LEN   50,
+vespa-engine/vespa,https://github.com/vespa-engine/vespa/commit/ff8c8adaddfd03e0a1437b3ca8e8404e9192af62,CatExpression.java," ""unchecked"" { ""unchecked"", ""rawtypes"" }",
+apache/tomee,https://github.com/apache/tomee/commit/29c7594baff0161f358f1e6585fe36730d14f43c,MandatoryInterceptor.java,200  Interceptor.Priority.PLATFORM_BEFORE + 200,
+prestodb/presto,https://github.com/prestodb/presto/commit/8b9378f76e7de4dada6ebd9b05a52c8e8c5b8ffc,JsonFunctions.java,"StandardTypes.VARCHAR  ""varchar(x)""",
+spring-projects/spring-integration,https://github.com/spring-projects/spring-integration/commit/c54d95b1aad252025879e5b8d91f18427f8c799b,BoonJsonObjectMapper.java,"""unchecked""  { ""unchecked"", ""rawtypes"" }",
+graalvm/fastr,https://github.com/graalvm/fastr/commit/3ea19a043de8bdc44bc8ea06a68df8a9bed38761,AsCharacter.java,internalDispatch = true dispatch = INTERNAL_GENERIC,
+realm/realm-java,https://github.com/realm/realm-java/commit/bf5ed071d28a0e5b2b13895e1f26cf783103cc76,SyncObjectServerFacade.java,"""unused""   {""unused"", ""WeakerAccess""}",
+errai/errai,https://github.com/errai/errai/commit/6664f1d199fe139b91c59a40919aaeaf887d152c,AsyncDecoratorTask.java,"{ ""unchecked"" }   { ""unchecked"", ""rawtypes"" }",
+jMonkeyEngine/jmonkeyengine,https://github.com/jMonkeyEngine/jmonkeyengine/commit/5bc1595ab8115a78970dc68ae9ef67b989405ab0,CodelessProjectWizardAction.java,"unchecked ({""unchecked"", ""rawtypes""}",
+junit-team/junit5,https://github.com/junit-team/junit5/commit/8d2704ab9c1bec65350214ca600b0364e5d847f1,Assertions.java,Stable   status = STABLE,
+randoop/randoop,https://github.com/randoop/randoop/commit/48da49d290e875edd02d56e2fd0f575336477c0a,CompareToReturnsNormally.java,"""unchecked""   {""unchecked"", ""rawtypes""}",
+eclipse/smarthome,https://github.com/eclipse/smarthome/commit/cf17f461e5b3ef427ce20bb827b653674320ab8d,UpnpDiscoveryService.java,"name = ""org.eclipse.smarthome.links""  configurationPid = ""org.eclipse.smarthome.links""",
+Neamar/KISS,https://github.com/Neamar/KISS/commit/4154cf90f2f56fdead529d7f411bf99d95e5f059,SettingResult.java,"""ResourceType""  {""ResourceType"", ""deprecation""}",
+abixen/abixen-platform,https://github.com/abixen/abixen-platform/commit/5c6e467d939d2c01387da18ed4ceca66b0754f4d,ChartModuleConfigurationController.java,update file path name,
+fabric8io/fabric8,https://github.com/fabric8io/fabric8/commit/4e9b9e0064e03fa32a340fdc712b0801a246a12c,ApplyMojo.java,"""trye""   ""true""",
+igniterealtime/Openfire,https://github.com/igniterealtime/Openfire/commit/818c37e778fd85a607c19f652797b8f92b713fd0,UserService.java,,
+oVirt/ovirt-engine,https://github.com/oVirt/ovirt-engine/commit/ee5f2d7b023467c5bd50c34145b08d607de6da74,ConfigValues.java,,
+apache/hadoop,https://github.com/apache/hadoop/commit/e2c9b288b223b9fd82dc12018936e13128413492,ClientDatanodeProtocolPB.java,,
+xwiki/xwiki-platform,https://github.com/xwiki/xwiki-platform/commit/69c10a7e34de00056c0dbd50d8b3c6376fb6ca46,DummyLockProvider.java,,
+OpenNMS/opennms,https://github.com/OpenNMS/opennms/commit/0cdb8f24656a592a7e0db8553b64db160855836d,CreateAssetTopologyCommand.java,,
+SpongePowered/SpongeCommon,https://github.com/SpongePowered/SpongeCommon/commit/74080b0c75e59075f164f5151b08be395e2d17fc,SpongeFindNearestAttackableTargetAIBuilder.java,"""unchecked""   {""unchecked"", ""rawtypes""}",
+linkedin/rest.li,https://github.com/linkedin/rest.li/commit/b1208478d1fb17bc08acee2a1a04a6f0b8470778,BatchUpdateRequestBuilder.java,"""unchecked""   {""unchecked"", ""rawtypes""}",
+apache/accumulo,https://github.com/apache/accumulo/commit/bbcc6da446b737507dfd9c486b5673055fbdf0ab,ConfigurationType.java,"""all""  ""unused""",
+apache/maven-plugins,https://github.com/apache/maven-plugins/commit/7846809644d4e5e38da19a76d6444e3d08ac6857,AbstractSourceJarMojo.java,Make naming of properties consistent to the plugin name. ,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/9510c02d64d53b85f42110729ec4dd1792770a5e,BatchCubeSink.java,renaming sink type to realtimesink and batchsink ,
+caskdata/cdap,https://github.com/caskdata/cdap/commit/9028cc3b3eb5029901478c505c1ea7a41bd5c046,UserProfileServiceHandler.java,user USER_ENDPOINT,
+apache/camel,https://github.com/apache/camel/commit/8ef99f5cffb268e4fd838b66f5dbcd4cc841c776,ZooKeeperClusterServiceConfiguration.java, Refine Cluster Service API and implementations ,
+apache/camel,https://github.com/apache/camel/commit/3a34d2584f0379843be7702351dd8b1ab364e1d6,BindyFixedLengthDataFormatAutoConfiguration.java, Changed dataformats ,
