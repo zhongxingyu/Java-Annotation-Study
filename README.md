@@ -5,9 +5,7 @@
 Java annotations have been widely used by the community for purposes such as compiler guidance and runtime processing. Despite the
 ever-growing use, there is still limited empirical knowledge about the actual usage of annotations in practice, the changes made to 
 annotations during software evolution, and the potential impact of annotations on code quality. To fill this gap, we perform the first
-large-scale empirical study about Java annotations on 1,094 open-source projects hosted on GitHub. Our study systematically 
-investigates annotation usage, annotation evolution, and annotation impact, and generates 10 interesting findings that have important 
-implications for developers, researchers, tool builders, and language or library designers. 
+large-scale empirical study about Java annotations on 1,094 open-source projects hosted on GitHub. Our study systematically investigates annotation usage, annotation evolution, and annotation impact, and generates 10 interesting findings that have important implications for developers, researchers, tool builders, and language or library designers. 
 
 This repository contains our code for studying Java annotation and its evolution, the collected large scale data about evolution of
 annotations in three years for each project, and our manual analysis of the characteristics of annotation evolution.  
